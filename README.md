@@ -9,9 +9,12 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 2- How to work with git: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/1-%20Git/First%20steps%20with%20git%20clone%2C%20add%2C%20commit%2C%20push%20Intro%20version%20control%20git.md)
 
 3- Introduction to R basics: 
-<br /> 3.1. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%201/2-%20R%20basics)
-<br /> 3.2. Introduction to R and Rstudio: [Link](http://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/1_introR-R-and-RStudio.html)
-<br /> 3.3. Intruduction to data wrangling and functions in R: [Link](http://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/2_introR-data-wrangling_and_functions.html)
+<br /> &nbsp;&nbsp;&nbsp;
+3.1. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%201/2-%20R%20basics)
+<br /> &nbsp;&nbsp;&nbsp;
+3.2. Introduction to R and Rstudio: [Link](http://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/1_introR-R-and-RStudio.html)
+<br /> &nbsp;&nbsp;&nbsp;
+3.3. Intruduction to data wrangling and functions in R: [Link](http://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/2_introR-data-wrangling_and_functions.html)
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
