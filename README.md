@@ -3,6 +3,7 @@
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
 ## Tutorial 1 (Week of Sep 14, 2020): Introduction to git and R
+
 1- How to install git : [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/1-%20Git/Install%20Git.html)
 <br /> Note, git is already installed in Virtualbox but we inlcude this information for the sake of completeness.
 
@@ -15,6 +16,8 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 3.2. Introduction to R and Rstudio: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/1_introR-R-and-RStudio.html)
 <br /> &nbsp;&nbsp;&nbsp;
 3.3. Intruduction to data wrangling and functions in R: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/2_introR-data-wrangling_and_functions.html)
+
+* you can also see the **markdown** or **R markdown** files for this tutorial in folder "Tutorial 1"
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
