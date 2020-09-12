@@ -5,6 +5,7 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 ## Tutorial 1 (Week of Sep 14, 2020): Introduction to git and R
 
 1- Install Virtualbox as per the instructions outlined in the following document: [link](https://docs.google.com/document/d/1BiSQHjmPYxBnD8DljzpQq6W7POFtNlEs2rkRQ5vI9n8/edit?usp=sharing)
+<br /> Note, if you run into difficulty with running Virtualbox, please skip this step for now.
 
 2- How to install git : [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/1-%20Git/Install%20Git.html)
 <br /> Note, git is already installed in Virtualbox but we inlcude this information for the sake of completeness.
