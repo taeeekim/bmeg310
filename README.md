@@ -23,7 +23,9 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 * you can also see the **markdown** or **R markdown** files for this tutorial in folder "Tutorial 1"
 
 5- Instruction to deliverable exercise and the R markdown template for submissions provided in
+<br /> &nbsp;&nbsp;&nbsp;
 5.1. Instruction  [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/3-%20Exercise%20and%20Template/R%20Markdown.html)
+<br /> &nbsp;&nbsp;&nbsp;
 5.2. R markdown template containing a sample [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%201/3-%20Exercise%20and%20Template)
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
