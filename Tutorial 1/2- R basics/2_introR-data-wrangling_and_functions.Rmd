@@ -480,16 +480,6 @@ sum_squares(y = 5, x = 3)
 ```
 
 
-## Exercise
-
-Write a function that takes a string as name (in this exercise: "GSE71562.csv")[Row and columns are genes and columns, respectively]
-
-***First***), take the average of the samples for each gene and find the gene with the highest value
-
-***Second***) Print the number of genes whose values are more than 2 * SD (standard deviation) of the average
-
-
-
 ---
 >
 *This lesson has been adapted from [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). 
