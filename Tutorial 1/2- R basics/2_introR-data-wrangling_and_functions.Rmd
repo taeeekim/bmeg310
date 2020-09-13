@@ -479,6 +479,25 @@ sum_squares(x = 3, y = 5)
 sum_squares(y = 5, x = 3)
 ```
 
+---
+
+## Exercise to deliver (NOTE: No need to write the questions in your report)
+#### Please submit the R codes and results in a .txt file
+
+* Hint: The `apply()` family pertains to the R base package and is populated with functions to manipulate slices of data from matrices, arrays, lists and dataframes in a repetitive way. These functions allow crossing the data in a number of ways and ***avoid explicit use of loop constructs***. They act on an input list, matrix or array and apply a named function with one or several optional arguments.
+
+  ```
+  vec <- c(1:10)
+  apply(vec, 1, sum)
+  ```
+
+<u>**Exercise 1)**</u> Write a function that takes a path to a file as string(in this exercise to "GSE71562.csv"). [Row and columns are genes and columns, respectively]
+
+
+***First***), take the average of the samples for each gene and find the name of the gene with the highest value
+
+***Second***) print the number and names of genes whose values are greater than 2 * SD (standard deviation) of the its average value
+
 
 ---
 >

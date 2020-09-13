@@ -988,9 +988,24 @@ sum_squares(3, 5)</code></pre>
 <pre class="r"><code>sum_squares(y = 5, x = 3)</code></pre>
 <pre><code>## [1] 34</code></pre>
 <hr />
+</div>
+<div id="exercise-to-deliver-note-no-need-to-write-the-questions-in-your-report" class="section level2">
+<h2>Exercise to deliver (NOTE: No need to write the questions in your report)</h2>
+<div id="please-submit-the-r-codes-and-results-in-a-.txt-file" class="section level4">
+<h4>Please submit the R codes and results in a .txt file</h4>
+<ul>
+<li><p>Hint: The <code>apply()</code> family pertains to the R base package and is populated with functions to manipulate slices of data from matrices, arrays, lists and dataframes in a repetitive way. These functions allow crossing the data in a number of ways and <strong><em>avoid explicit use of loop constructs</em></strong>. They act on an input list, matrix or array and apply a named function with one or several optional arguments.</p>
+<pre><code>vec &lt;- c(1:10)
+apply(vec, 1, sum)</code></pre></li>
+</ul>
+<p><u><strong>Exercise 1)</strong></u> Write a function that takes a path to a file as string(in this exercise to “GSE71562.csv”). [Row and columns are genes and columns, respectively]</p>
+<p><strong><em>First</em></strong>), take the average of the samples for each gene and find the name of the gene with the highest value</p>
+<p><strong><em>Second</em></strong>) print the number and names of genes whose values are greater than 2 * SD (standard deviation) of the its average value</p>
+<hr />
 <blockquote>
 <p><em>This lesson has been adapted from <a href="http://bioinformatics.sph.harvard.edu/">Harvard Chan Bioinformatics Core (HBC)</a>. </em>authors: Meeta Mistry, Mary Piper, Radhika Khetani*</p>
 </blockquote>
+</div>
 </div>
 </div>
 
