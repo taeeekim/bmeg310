@@ -491,7 +491,7 @@ sum_squares(y = 5, x = 3)
   apply(vec, 1, sum)
   ```
 
-<u>**Exercise 1)**</u> Write a function that takes a path to a file as string(in this exercise to "GSE71562.csv"). [Row and columns are genes and columns, respectively]
+<u>**Exercise 1)**</u> Write a function that takes a path to a file as string(in this exercise to "GSE71562.csv"). [Row and columns are genes and samples, respectively]
 
 
 ***First***), take the average of the samples for each gene and find the name of the gene with the highest value
