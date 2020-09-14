@@ -26,26 +26,13 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
 1- Introduction to R Markdown:
-
-<br />
-
-​    1.1. Tutorial can be found here: [Link]()
-
-<br />
-
-​    1.2. Associated data files can be found here: [Link]()
-
-<br />
-
-<br />
+<br /> &nbsp;&nbsp;&nbsp;
+1.1. Tutorial can be found here: [Link]()
+<br /> &nbsp;&nbsp;&nbsp;
+1.2. Associated data files can be found here: [Link]()
 
 2- Introduction to R Visualization:
-
-<br />
-
-​    2.1. Tutorial can be found here: [Link]()
-
-<br />
-
-​    2.2. Associated data files can be found here: [Link]()
-​    <br />
+<br /> &nbsp;&nbsp;&nbsp;
+2.1. Tutorial can be found here: [Link]()
+<br /> &nbsp;&nbsp;&nbsp;
+2.2. Associated data files can be found here: [Link]()
