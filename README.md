@@ -18,11 +18,20 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 <br /> &nbsp;&nbsp;&nbsp;
 4.2. Introduction to R and Rstudio: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/1_introR-R-and-RStudio.html)
 <br /> &nbsp;&nbsp;&nbsp;
-4.3. Intruduction to data wrangling and functions in R: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/2_introR-data-wrangling_and_functions.html)
+4.3. Introduction to data wrangling and functions in R: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/2-%20R%20basics/2_introR-data-wrangling_and_functions.html)
 
 * At the end of the "Intruduction to data wrangling and functions in R" document, you can find the exercise that needs to be submitted as a deliverable for Tutorial 1. 
 
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
-TBA
+1- Introduction to R Markdown:
+    1.1. Tutorial can be found here:
+    1.2. Associated data files can be found here:
+
+2- Introduction to R Visualization:
+    2.1. Tutorial can be found here:
+    2.2. Associated data files can be found here:
+    
+
+At the end of the "Intruduction to data wrangling and functions in R" document, you can find the exercise that needs to be submitted as a deliverable for Tutorial 1.
