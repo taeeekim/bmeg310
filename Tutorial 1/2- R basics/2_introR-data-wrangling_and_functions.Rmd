@@ -496,7 +496,7 @@ sum_squares(y = 5, x = 3)
 
 ***First***), take the average of the samples for each gene and find the name of the gene with the highest value
 
-***Second***) print the number and names of genes whose values are greater than 2 * SD (standard deviation) of the its average value
+***Second***) print the number and names of genes whose average value is 2 standard deviations above the average of the averages
 
 
 ---
