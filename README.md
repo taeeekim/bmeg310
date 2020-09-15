@@ -25,16 +25,14 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
-1- Introduction to R Markdown: <br /> &nbsp;&nbsp;&nbsp;
-1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/Tutorial%205.html) <br /> &nbsp;&nbsp;&nbsp;
-1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Markdown/data) <br />
+1. Introduction to R Markdown:
 
- &nbsp;
+- Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/Tutorial%205.html)
+- Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Markdown/data)
+- Cheatsheet for R Markdown can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/rmarkdown-summary.pdf)
 
-1.3. Cheatsheet for R Markdown can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/rmarkdown-summary.pdf)
+2. Introduction to R Visualization:
 
-2- Introduction to R Visualization: <br /> &nbsp;&nbsp;&nbsp;
-2.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/R%20Visualization.html) <br /> &nbsp;&nbsp;&nbsp;
-2.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Visualization/data)
-
-2.3. Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
+- Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/R%20Visualization.html)
+- Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Visualization/data)
+- Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
