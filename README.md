@@ -29,10 +29,14 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/Tutorial%205.html) <br /> &nbsp;&nbsp;&nbsp;
 1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Markdown/data) <br />
 
+ &nbsp;&nbsp;&nbsp;
+
 1.3. Cheatsheet for R Markdown can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/rmarkdown-summary.pdf)
 
 2- Introduction to R Visualization: <br /> &nbsp;&nbsp;&nbsp;
 2.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/R%20Visualization.html) <br /> &nbsp;&nbsp;&nbsp;
 2.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Visualization/data) <br />
+
+ &nbsp;&nbsp;&nbsp;
 
 2.3. Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
