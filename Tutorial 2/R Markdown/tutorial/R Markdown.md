@@ -2,7 +2,7 @@
 
 
 
-R Markdown allows us to integrate coding and word processing to create documents such as project assignments, readme pages in Github, supplementary sections for a research paper, or analysis records in electronic notebooks. Basically, RMarkdown is a very simple ‘markup’ language which uses [Markdown syntax](https://daringfireball.net/projects/markdown/) to embed R code into a document and conventionally present its output (equations, images, graphs, tables, etc.) without the cumbersome copying, pasting,and resizing routines required by a word processors like MS Word. The suffix for these Markdown documents is ".Rmd" which may be converted to .html, .md, .doc or .pdf file formats for convenience, making RMarkdown an incredibly powerful tool for practicing reproducible science.
+R Markdown allows us to integrate coding and word processing to create documents such as project assignments, readme pages in Github, supplementary sections for a research paper, or analysis records in electronic notebooks. Basically, R Markdown is a very simple ‘markup’ language which uses [Markdown syntax](https://daringfireball.net/projects/markdown/) to embed R code into a document and conventionally present its output (equations, images, graphs, tables, etc.) without the cumbersome copying, pasting,and resizing routines required by a word processors like MS Word. The suffix for these Markdown documents is ".Rmd" which may be converted to .html, .md, .doc or .pdf file formats for convenience, making R Markdown an incredibly powerful tool for practicing reproducible science.
 
 
 
@@ -12,7 +12,7 @@ In this tutorial, we will understand how to create and render a dynamic R Markdo
 
 #### **Download R Markdown:**
 
-RMarkdown can be acquired from CRAN with the following commands:
+R Markdown can be acquired from CRAN with the following commands:
 
 ​	`install.packages("rmarkdown")`
 
@@ -20,7 +20,7 @@ RMarkdown can be acquired from CRAN with the following commands:
 
 
 
-#### **Create an RMarkdown file:**
+#### **Create an R Markdown file:**
 
 1. Open RStudio
 2. To create an R Markdown report, do *File > New File > R Markdown* and save it with the extension “.Rmd” (excluding quotes).
@@ -129,9 +129,9 @@ The *output:* value determines what type of file to render into:
 
    
 
-   1. Give these markdown conventions (with any text of your choice) a try in a plain text file and save it as a *.Rmd* file. Then, render the output as a pdf file for assessment.
+   1. Give these markdown conventions a try in a plain text file. Make sure you put in lists, headers, hyperlinks, bold and Italic text in there. Save the text file with an *.Rmd* suffix and then, render it as a pdf file. You can give it whatever title you wish. Send the *Rmd* and *pdf* documents to your TA.
 
-   2. Use the ‘SalesJan2009.csv’ dataset to plot a graph displaying the relationship between products and the countries they were sold in (categorized based on the payment type).
+   2. Open a new R Markdown document and give it a title of your choice. In this document, add an r-code to read the ‘SalesJan2009.csv’ dataset in a variable called 'metadata' and plot a graph using *plot(metadata)*. The plot will display the relationship between the variables in the dataset. Render the output as an *ioslides_presentation*. Send the *Rmd* file and the output document to your TA.
 
       
 
