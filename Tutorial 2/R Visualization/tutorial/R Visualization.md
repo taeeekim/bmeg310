@@ -273,7 +273,9 @@ Let's try:
 
 
 
-![image-20200914020028459](C:\Users\divya\AppData\Roaming\Typora\typora-user-images\image-20200914020028459.png)
+![img](https://lh6.googleusercontent.com/U-ZJnqJFc1i00WeOB1Ridzbl6B0ThG7izBxbDE4VGqlvL4bemUKVjGnz3Qh0PSitgDQeoRTK6k74Px2_DfFZ-xgIoKQrje6hrRs9Bulvll0Bh2ueDHlw-R-jGdjFzwKWbKonK11V)
+
+
 
 
 
