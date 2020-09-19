@@ -73,7 +73,7 @@ This auto-generated *.Rmd* file has three "types" of text:
 
    
 
-   ![pic-crop](C:\Users\divya\Downloads\pic-crop.png)
+   ![img](https://lh3.googleusercontent.com/0EiU98IrgqKges1k3lgn-ExkqBaB3mEEHsJE7u9e_R5BSYNiVD5JKuOPLiQ-fbLZPCHO2nkQx1Kry3Mtt6ubbPyirj01mgANVu_jtWYcca2gm7a2VDQEaAZi7F0FBA5hM7cEFDBQ)
 
    
 
@@ -93,7 +93,7 @@ The *output:* value determines what type of file to render into:
 
    
 
-   ![](C:\Users\divya\Downloads\pic-crop1 - Copy.png)
+   ![img](https://lh4.googleusercontent.com/br--eIooO3stBAxLjHfjq3fbRQ7rfDRv8X-li0NKcin4QJH6NwHTIy9osU80j2evba9-Sdmvv3NFeLEZ8P1m-QvO9KsjEiMrQ44EvdcXpyo7aYODuD_eMS14lZK4HCFgZKLw6OrR)
 
    
 
@@ -109,7 +109,7 @@ The *output:* value determines what type of file to render into:
 
    
 
-   ![](C:\Users\divya\Downloads\pic-crop1 - Copy.png)
+   ![img](https://lh6.googleusercontent.com/WIXvWSdg-cH5qCuzzy2X3M5URMpj6sx9xjaFkjJ8AfRys4H2WNJZ6Mf9Hws0rn6y8CgKfbURKnlOH_B8M2RbeDKu4a6zXvIa1W8j2x4qrfTsN4Jr5RrYUOMnDk43D0rTSiQmc7gg)
 
    
 
@@ -131,13 +131,12 @@ The *output:* value determines what type of file to render into:
 
    1. Give these markdown conventions (with any text of your choice) a try in a plain text file and save it as a *.Rmd* file. Then, render the output as a pdf file for assessment.
 
-   2. Use the ‘SalesJan2009.csv’ dataset to plot a graph displaying the relationship between products and the countries they were sold in (categorized based on the payment type). 
-
-   3. Render the other example demo file as a slideshow.
+   2. Use the ‘SalesJan2009.csv’ dataset to plot a graph displaying the relationship between products and the countries they were sold in (categorized based on the payment type).
 
       
 
       
+
 
 #### **Render a .Rmd file to an HTML document:**
 
