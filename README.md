@@ -27,7 +27,7 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 
 1- Introduction to R Markdown:
 <br /> &nbsp;&nbsp;&nbsp;
-1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/Tutorial%205.html)
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/R%20Markdown.html)
 <br /> &nbsp;&nbsp;&nbsp;
 1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Markdown/data)
 <br /> &nbsp;&nbsp;&nbsp;
