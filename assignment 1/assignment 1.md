@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 (Tentative - Details subject to change)
 
 ## Introduction 
 We have taken a tissue biopsy from an ovarian cancer patient. The biopsy includes benign and cancer cells. We measured 30 different characeritics (features) of the cells. These features represent various morphological properties as well as the expression of various proteins on the surface of the cell. 
