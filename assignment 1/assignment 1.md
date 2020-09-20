@@ -47,4 +47,19 @@ Q2.3. Compare the results between Q2.1. and Q2.2.
 Hint: Do the results get better or worse? Why?
 
 ### Q3. CLASSIFICATION
+Divide your data into trainging and test sets using the followin command:
+<br />
+ovarian.dataset.train <- ovarian.dataset[sample(nrow(ovarian.dataset))[1:(nrow(ovarian.dataset)/2)],]
+<br />
+ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovarian.dataset)/2):(nrow(ovarian.dataset))],]
+
+Q3.1. Design at least two classification methods to identify (differentiate) benign and malignant cells. Report the performance of the two classification techniques on the training and test sets. You can report accuracy, precision and recall.
+
+Q3.2. Repeat the same task as Q3.1. with the top 5 PCs.
+
+Q2.3. Compare the results between Q3.1. and Q3.2. 
+<br />
+Hint: Do the results get better or worse? Why?
+
+Q2.4 (bonus). Compare the results of the clustering and classification methods. Which one gives you better result?
 
