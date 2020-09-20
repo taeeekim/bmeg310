@@ -31,7 +31,17 @@ Hint 2: try the summary() function on the PCA results
 Hint 3: PCA transforms the data into new dimension.
 
 ### Q2. CLUSTERING
-&nbsp;&nbsp;&nbsp;
+Q2.1. Apply keamn and hierarchical clustering on the data and identify two clusters within your dataset. What is the concordance between the clusters that you have identified and the true labels of the cells (Benign vs Malignant)
+<br />
+Hint: From clustering, you get the cluster membrship of each cell. Note, you need to identify two cluster. From there, you can explore the relationship betwen the clusters and the true labels. You can report accuracy, precision and recall of the methods. 
+
+Q2.2. Repeat the same analysis but with the top 5 PCs. 
+<br />
+Hint: From the PCA results, take the top 5 PCs and repeat the analysis.
+
+Q2.3. Compare the results between Q2.1. and Q2.2. 
+<br />
+Hint: Do the results get better or worse? Why?
 
 ### Q3. CLASSIFICATION
 
