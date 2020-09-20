@@ -6,8 +6,11 @@ We would like to perform exploratory anaysis of the measured features and see if
 
 ## How to download the data and read the data
 You can download the data from here: [link]
+
 You can use the following commands to read the data file:
+
 ovarian.dataset <- read.delim("ovarian.data", sep=",", header = TRUE)
+
 Try head(ovarian.dataset) to get a sense of the data that has been loaded.
 
 ## Questions
