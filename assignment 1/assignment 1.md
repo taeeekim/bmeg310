@@ -19,18 +19,19 @@ Try head(ovarian.dataset) to get a sense of the data that has been loaded.
 Q1.1
 <br /> &nbsp;&nbsp;&nbsp;
 How much of the variation in the data is associated with PC1?
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 Q1.2 
 <br /> &nbsp;&nbsp;&nbsp;
 You want to represent 90% of the variance in the data by dimensionality reduction. How many PCs do you need to achieve this? In other word, what would be the dimensionality of the reduced feature space? 
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 Q1.3 
 <br /> &nbsp;&nbsp;&nbsp;
 as you know by now, PCA transforms the data into a new space. Can you plot the observations corresponding to the first two important PCs? Can you plot the first two variables in the matrix? What is the difference between the two plots?
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 Q1.4 (bonus) 
 <br /> &nbsp;&nbsp;&nbsp;
 Plot the distribution of the PCs. Hint: you can use boxplot on the transformed dataset. 
+<br /> &nbsp;&nbsp;&nbsp;
 Hint 1: when doing PCA, make sure you set scale and center arguments to TRUE.
 <br /> &nbsp;&nbsp;&nbsp;
 Hint 2: try the summary() function on the PCA results
