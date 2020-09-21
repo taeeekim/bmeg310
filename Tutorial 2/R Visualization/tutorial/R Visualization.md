@@ -281,33 +281,21 @@ Let's try:
 
 ##### <u>**Exercise**</u>:
 
-The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions:
+The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions. Please submit your R code and plots in R markdown. 
 
 dat <- read_csv("EconomistData.csv")
 
-\## Parsed with column specification
+\## column specification in the EconomistData dataset:
 
-\## cols(
-
-\##  Country = col_character(),
-
-\##  HDI.Rank = col_integer(),
-
-\##  HDI = col_double(),
-
-\##  CPI = col_double(),
-
-\##  Region = col_character()
-
-\## )
+​	\##  Country = character, HDI.Rank = integer, HDI = double, CPI = double, Region = character
 
 
 
 1. Create a scatter plot with CPI on the x axis and HDI on the y axis.
-2. Color the points blue.
-3. Map the color of the points to Region.
-4. Make the points bigger by setting size to 2.
-5. Map the size of the points to HDI.Rank.
+2. Use the scatter plot from question 1 and Color the points blue.
+3. Use the scatter plot from question 1 and Color the points according to *Region*.
+4. Use the scatter plot from question 1 and Make the points bigger by setting size to 2.
+5. Use the scatter plot from question 1 and Map the size of the points to HDI.Rank.
 
 
 
