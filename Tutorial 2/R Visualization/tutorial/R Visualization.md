@@ -281,7 +281,7 @@ Let's try:
 
 ##### <u>**Exercise**</u>:
 
-The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions. Please submit your R code and plots in R markdown. 
+The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions. Please submit your R code and plots as an R markdown HTML document. 
 
 dat <- read_csv("EconomistData.csv")
 
