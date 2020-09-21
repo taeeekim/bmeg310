@@ -156,7 +156,6 @@ mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
 mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
 @media print {
   .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
-  .typora-export h1::after, .typora-export h2::after, .typora-export h3::after, .typora-export h4::after, .typora-export h5::after, .typora-export h6::after { content: ""; display: block; height: 100px; margin-bottom: -100px; }
 }
 
 
@@ -264,7 +263,7 @@ h2 {
     border-bottom: 1px solid #eee;
 }
 
-@media print {
+/*@media print {
     .typora-export h1,
     .typora-export h2 {
         border-bottom: none;
@@ -273,10 +272,13 @@ h2 {
 
     .typora-export h1::after,
     .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
         border-top: 1px solid #eee;
-        margin-top: .3em;
     }
-}
+}*/
 
 h3 {
     font-size: 1.5em;
@@ -546,6 +548,6 @@ header, .context-menu, .megamenu-content, footer{
 <span>​</span><span>	</span><span>fill: the numeric value that will be translated in a color</span></p><p>&nbsp;</p><p><span>Let&#39;s try:</span></p><p><code>library(ggplot2)</code></p><p>&nbsp;</p><p><span>#</span><span>dummy data</span></p><p><code>x &lt;- LETTERS[1:20]</code>
 <code>y &lt;- paste0(&quot;var&quot;, seq(1,20))</code>
 <code>data &lt;- expand.grid(X=x, Y=y)</code>
-<code>data$Z &lt;- runif(400, 0, 5)</code></p><p>&nbsp;</p><p><span>#</span><span>Heatmap </span></p><p><code>ggplot(data, aes(X, Y, fill= Z)) + geom_tile()</code></p><p>&nbsp;</p><p><img src="https://lh6.googleusercontent.com/U-ZJnqJFc1i00WeOB1Ridzbl6B0ThG7izBxbDE4VGqlvL4bemUKVjGnz3Qh0PSitgDQeoRTK6k74Px2_DfFZ-xgIoKQrje6hrRs9Bulvll0Bh2ueDHlw-R-jGdjFzwKWbKonK11V" referrerpolicy="no-referrer" alt="img"></p><p>&nbsp;</p><p>&nbsp;</p><h5><a name="uexerciseu" class="md-header-anchor"></a><u><strong><span>Exercise</span></strong></u><span>:</span></h5><p><span>The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions:</span></p><p><span>dat &lt;- read_csv(&quot;EconomistData.csv&quot;)</span></p><p><span>#</span><span># Parsed with column specification</span></p><p><span>#</span><span># cols(</span></p><p><span>#</span><span>#  Country = col_character(),</span></p><p><span>#</span><span>#  HDI.Rank = col_integer(),</span></p><p><span>#</span><span>#  HDI = col_double(),</span></p><p><span>#</span><span>#  CPI = col_double(),</span></p><p><span>#</span><span>#  Region = col_character()</span></p><p><span>#</span><span># )</span></p><p>&nbsp;</p><ol start='' ><li><span>Create a scatter plot with CPI on the x axis and HDI on the y axis.</span></li><li><span>Color the points blue.</span></li><li><span>Map the color of the points to Region.</span></li><li><span>Make the points bigger by setting size to 2.</span></li><li><span>Map the size of the points to HDI.Rank.</span></li></ol><p>&nbsp;</p><p><u><span>Additional resources for ggplot2</span></u><span>:</span></p><p><span>	</span><span>Wiki: </span><a href='https://github.com/hadley/ggplot2/wiki' target='_blank' class='url'>https://github.com/hadley/ggplot2/wiki</a></p><p><span>	</span><span>Mailing list: </span><a href='http://groups.google.com/group/ggplot2' target='_blank' class='url'>http://groups.google.com/group/ggplot2</a></p><p><span>	</span><span>Website: </span><a href='http://had.co.nz/ggplot2/' target='_blank' class='url'>http://had.co.nz/ggplot2/</a></p></div>
+<code>data$Z &lt;- runif(400, 0, 5)</code></p><p>&nbsp;</p><p><span>#</span><span>Heatmap </span></p><p><code>ggplot(data, aes(X, Y, fill= Z)) + geom_tile()</code></p><p>&nbsp;</p><p><img src="https://lh6.googleusercontent.com/U-ZJnqJFc1i00WeOB1Ridzbl6B0ThG7izBxbDE4VGqlvL4bemUKVjGnz3Qh0PSitgDQeoRTK6k74Px2_DfFZ-xgIoKQrje6hrRs9Bulvll0Bh2ueDHlw-R-jGdjFzwKWbKonK11V" referrerpolicy="no-referrer" alt="img"></p><p>&nbsp;</p><p>&nbsp;</p><h5><a name="uexerciseu" class="md-header-anchor"></a><u><strong><span>Exercise</span></strong></u><span>:</span></h5><p><span>The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions. Please submit your R code and plots in R markdown. </span></p><p><span>dat &lt;- read_csv(&quot;EconomistData.csv&quot;)</span></p><p><span>#</span><span># column specification in the EconomistData dataset:</span></p><p><span>	</span><span>#</span><span>#  Country = character, HDI.Rank = integer, HDI = double, CPI = double, Region = character</span></p><p>&nbsp;</p><ol start='' ><li><span>Create a scatter plot with CPI on the x axis and HDI on the y axis.</span></li><li><span>Use the scatter plot from question 1 and Color the points blue.</span></li><li><span>Use the scatter plot from question 1 and Color the points according to </span><em><span>Region</span></em><span>.</span></li><li><span>Use the scatter plot from question 1 and Make the points bigger by setting size to 2.</span></li><li><span>Use the scatter plot from question 1 and Map the size of the points to HDI.Rank.</span></li></ol><p>&nbsp;</p><p><u><span>Additional resources for ggplot2</span></u><span>:</span></p><p><span>	</span><span>Wiki: </span><a href='https://github.com/hadley/ggplot2/wiki' target='_blank' class='url'>https://github.com/hadley/ggplot2/wiki</a></p><p><span>	</span><span>Mailing list: </span><a href='http://groups.google.com/group/ggplot2' target='_blank' class='url'>http://groups.google.com/group/ggplot2</a></p><p><span>	</span><span>Website: </span><a href='http://had.co.nz/ggplot2/' target='_blank' class='url'>http://had.co.nz/ggplot2/</a></p></div>
 </body>
 </html>
