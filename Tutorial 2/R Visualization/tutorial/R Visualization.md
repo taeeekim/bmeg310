@@ -281,7 +281,7 @@ Let's try:
 
 ##### <u>**Exercise**</u>:
 
-The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions. Please submit your R code and plots as an R markdown HTML document. 
+The data for the exercise is accessible from EconomistData.csv file. Use ggplot2 and the following to answer below questions. Please submit your R code and the five plots as an R markdown HTML document. 
 
 dat <- read_csv("EconomistData.csv")
 
@@ -291,11 +291,13 @@ dat <- read_csv("EconomistData.csv")
 
 
 
+Submit the following five plots:
+
 1. Create a scatter plot with CPI on the x axis and HDI on the y axis.
-2. Use the scatter plot from question 1 and Color the points blue.
-3. Use the scatter plot from question 1 and Color the points according to *Region*.
-4. Use the scatter plot from question 1 and Make the points bigger by setting size to 2.
-5. Use the scatter plot from question 1 and Map the size of the points to HDI.Rank.
+2. Create a scatter plot with CPI on the x axis and HDI on the y axis and color the points blue.
+3. Create a scatter plot with CPI on the x axis and HDI on the y axis and color the points according to *Region*.
+4. Create a scatter plot with CPI on the x axis and HDI on the y axis and set point size to 2 so that the points bigger than in other plots.
+5. Create a scatter plot with CPI on the x axis and HDI on the y axis and map the size of the points to HDI.Rank.
 
 
 
