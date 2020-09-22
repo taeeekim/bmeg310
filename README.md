@@ -2,6 +2,9 @@
 
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
+## Assignment Guidelines
+Please see this link as an update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
+
 ## Tutorial 1 (Week of Sep 14, 2020): Introduction to git and R
 
 1- Install Virtualbox as per the instructions outlined in the following document: [link](https://docs.google.com/document/d/1BiSQHjmPYxBnD8DljzpQq6W7POFtNlEs2rkRQ5vI9n8/edit?usp=sharing)
