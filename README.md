@@ -3,7 +3,7 @@
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
 ## Assignment Guidelines
-Please see this link as an update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
+Please see this link as update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
 
 ## Tutorial 1 (Week of Sep 14, 2020): Introduction to git and R
 
