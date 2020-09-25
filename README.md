@@ -36,6 +36,10 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br /> &nbsp;&nbsp;&nbsp;
 1.3. Cheatsheet for R Markdown can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/rmarkdown-summary.pdf)
 
+<br />
+
+1.4. R Markdown ioslides-hyperlink test: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/test-tutorial-rmarkdown.html)
+
 2- Introduction to R Visualization:
 <br /> &nbsp;&nbsp;&nbsp;
 2.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/R%20Visualization.html)
