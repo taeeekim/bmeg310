@@ -48,7 +48,7 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 
 1- Getting Started with Regression, Clustering, and Classification in R:
 <br /> &nbsp;&nbsp;&nbsp;
-1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%203/tutorial)
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%203/tutorial)
 <br /> &nbsp;&nbsp;&nbsp;
 1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%203/data)
 <br /> &nbsp;&nbsp;&nbsp;
