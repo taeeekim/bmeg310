@@ -43,3 +43,14 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 2.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Visualization/data)
 <br /> &nbsp;&nbsp;&nbsp;
 2.3. Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
+
+## Tutorial 3 (Week of Sep 28, 2020): Introduction to Machine Learning with R
+
+1- Getting Started with Regression, Clustering, and Classification in R:
+<br /> &nbsp;&nbsp;&nbsp;
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%203/tutorial)
+<br /> &nbsp;&nbsp;&nbsp;
+1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%203/data)
+<br /> &nbsp;&nbsp;&nbsp;
+1.3. Cheatsheets for Machine Learning Concepts can be found here: [Link](https://ml-cheatsheet.readthedocs.io/en/latest/)
+
