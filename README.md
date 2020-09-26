@@ -44,7 +44,7 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br /> &nbsp;&nbsp;&nbsp;
 2.3. Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
 
-## Tutorial 3 (Week of Sep 28, 2020): Introduction to Machine Learning with R
+## Tutorial 3 & 4 (Weeks of Sep 28 & Oct 5, 2020): Introduction to Machine Learning with R
 
 1- Getting Started with Regression, Clustering, and Classification in R:
 <br /> &nbsp;&nbsp;&nbsp;
