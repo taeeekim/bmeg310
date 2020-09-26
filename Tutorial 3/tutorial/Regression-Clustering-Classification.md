@@ -72,11 +72,13 @@ You should get the following result:
 
 **-0.36096 -0.19706 0.00408 0.09411 0.55408** 
 
-**Coefficients:**      	**Estimate** 	**Std. Error** 	**t value** 	**Pr(>|t|)**
+**Coefficients:**
 
-**(Intercept)** 	**56.54138**  	**0.37012** 	**152.76** 	**< 2e-16 **\***
+​				      	**Estimate** 	**Std. Error** 	  **t value** 	  **Pr(>|t|)**
 
-**age**     				**0.98497**  	**0.02331**  	**42.26** 		**1.32e-12 \**\***
+**(Intercept)** 	 **56.54138**  	**0.37012** 		**152.76** 		**< 2e-16 **\***
+
+**age**     		  	**0.98497**  	  **0.02331**  		**42.26** 		  **1.32e-12 \**\***
 
 **---Signif. codes: 0 ‘\**\***’ **0.001 ‘\**’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1**
 **Residual standard error: 0.2787 on 10 degrees of freedom**
@@ -97,11 +99,11 @@ The underlines text below, are the values of the intercept and slope for the age
 
 **Coefficients:**      	
 
-​					**Estimate** 	**Std. Error** 	**t value** 	**Pr(>|t|)**  
+​						  **Estimate** 	**Std. Error** 	**t value** 		**Pr(>|t|)**  
 
-<u>**(Intercept)**</u> 	<u>**56.54138**</u>  	**0.37012** 	**152.76** 	**< 2e-16 \**\*****
+<u>**(Intercept)**</u> 	<u>**56.54138**</u>  	**0.37012** 		**152.76** 	   **< 2e-16 \**\*****
 
-<u>**age**</u>      			<u>**0.98497**</u>  	**0.02331**  	**42.26** 		**1.32e-12 \**\***
+<u>**age**</u>      			 <u>**0.98497**</u>  	  **0.02331**  		**42.26** 		**1.32e-12 \**\***
 
 
 
@@ -152,13 +154,13 @@ Below underlined, are coefficients (b1 and b2).
 
 ​	**Coefficients:**
 
-​							**Estimate** 	**Std. Error** 	**t value** 	**Pr(>|t|)**  
+​							**Estimate** 	**Std. Error** 	**t value** 		**Pr(>|t|)**  
 
-**(Intercept)** 	**56.55333**  	**0.37933** 		**149.088** 	**< 2e-16 \**\***
+**(Intercept)** 	  **56.55333**  	**0.37933** 		**149.088** 	**< 2e-16 \**\***
 
-<u>**age**</u>     				<u>**0.97500**</u>  	**0.02746** 		**35.504** 		**5.52e-11 \**\***
+<u>**age**</u>     				<u>**0.97500**</u>  	  **0.02746** 		**35.504** 		**5.52e-11 \**\***
 
-<u>**no_siblings**</u> 	<u>**0.04071**</u>  		**0.05551**  		**0.733**  		**0.482**
+<u>**no_siblings**</u> 	  <u>**0.04071**</u>  	  **0.05551**  		**0.733**  		**0.482**
 
 
 
@@ -174,13 +176,13 @@ Let’s look at the p-value of these coefficients (marked in green). If the p-va
 
 **Coefficients:**      	
 
-**Estimate** 	**Std. Error** 	**t value** 	**Pr(>|t|)**  
+​							**Estimate** 	**Std. Error** 	**t value** 		**Pr(>|t|)**  
 
-**(Intercept)** 	**56.55333**  	**0.37933** 	**149.088** 	**< 2e-16 \**\***
+**(Intercept)** 	  **56.55333**  	**0.37933** 		**149.088** 	**< 2e-16 \**\***
 
-**age**     	**0.97500**  	**0.02746** 	**35.504** 	**5.52e-11 \**\***
+**age**     				**0.97500**  	  **0.02746** 		**35.504** 		**5.52e-11 \**\***
 
-**no_siblings** 	**0.04071**  	**0.05551**  	**0.733**  	**0.482**   
+**no_siblings** 	  **0.04071**  	  **0.05551**  		**0.733**  		**0.482**   
 
 **---*****Signif. codes: 0 ‘\*****\****’ 0.001 ‘\**’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1**
 
