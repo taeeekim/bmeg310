@@ -97,8 +97,8 @@ ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovar
 
 **Q3.5.** Install the library "ROCR" and load it. Then, run the following lines using your trained linear regression model:
 ```
-pred_prob <- predict(your_model, ovarian.dataset, type="response")
-predict <- prediction(pred_prob, ovarian.dataset$diagnosis, label.ordering=c("B","M"))
+pred.prob <- predict(your.model, ovarian.dataset, type="response")
+predict <- prediction(pred.prob, ovarian.dataset$diagnosis, label.ordering=c("B","M"))
 perform <- performance(predict,"tpr","fpr")
 plot(perform,colorize=TRUE)
 ```
