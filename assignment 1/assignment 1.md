@@ -18,8 +18,6 @@ names(ovarian.dataset) <- c("cell_id", "diagnosis", features) # paste0(features,
 ```
 Try head(ovarian.dataset) to get a sense of the data that has been loaded. 
 
-When comparing model predictions to true labels, obtain a confusion matrix and include this result in your submission. You can obtain this by using table(predictions, labels)
-
 *Note 1:* column 1 (cell id) represents ID of the cell, column 2 ("diagnosis") represents diagnosis (benign or malignant), and the rest of the columns represent various measured features for the cells.  
 
 *Note 2:* "cell id" column is for informational purposes and you will not be using this column in your analysis. 
@@ -41,34 +39,36 @@ When comparing model predictions to true labels, obtain a confusion matrix and i
 **Q1.5.** What is the difference between the two plots? Which one gives you better separation between the classes and why?
 <br />
 
-**Q1.6. (bonus):** Plot the distribution of the PCs. Hint: you can use boxplot on the transformed dataset. 
+**Q1.6. (bonus):** Plot the distribution of the PCs. *Hint:* you can use boxplot on the transformed dataset. 
 <br />
 
-Hint 1: when doing PCA, make sure you set scale and center arguments to TRUE.
+*Hint 1:* when doing PCA, make sure you set scale and center arguments to TRUE.
 <br />
-Hint 2: try the summary() function on the PCA results.
+*Hint 2:* try the summary() function on the PCA results.
 <br />
-Hint 3: PCA transforms the data into new dimension.
+*Hint 3:* PCA transforms the data into new dimension.
 
 ### Q2. CLUSTERING
+When comparing model predictions to true labels, obtain a confusion matrix and include this result in your submission. You can obtain this by using table(predictions, labels)
+
 **Q2.1.** Apply kmeans clustering on the data and identify two clusters within your dataset. What is the concordance between the clusters that you have identified and the true labels of the cells (Benign vs Malignant).
 <br />
-Hint: From clustering, you get the cluster membership of each cell. Note, you need to identify two clusters. From there, you can explore the relationship between the clusters and the true labels. You can then report accuracy, precision and recall of the methods. 
+*Hint:* From clustering, you get the cluster membership of each cell. Note, you need to identify two clusters. From there, you can explore the relationship between the clusters and the true labels. You can then report accuracy, precision and recall of the methods. 
 <br />
-Hint: Use ifelse(cluster == 1, "M", "B") to convert the clusters to diagnosis labels. Remember, there is a 50-50 chance that cluster 1 corresponds to the benign label.
+*Hint:* Use ifelse(cluster == 1, "M", "B") to convert the clusters to diagnosis labels. Remember, there is a 50-50 chance that cluster 1 corresponds to the benign label.
 <br />
-Hint: Don't forget to scale the data beforehand.
+*Hint:* Don't forget to scale the data beforehand.
 <br />
 
 **Q2.2.** Repeat the kmeans analysis 10 times and report the mean accuracy across the 10 runs. Why are the results different in each run? 
 <br />
 
 **Q2.3.** Repeat the same analysis but with the top 5 PCs. 
-Hint: From the PCA results, take the top 5 PCs and repeat the analysis.
+*Hint:* From the PCA results, take the top 5 PCs and repeat the analysis.
 <br />
 
 **Q2.4.** Compare the results between Q2.1. and Q2.2. 
-Hint: Do the results get better or worse? Why?
+*Hint:* Do the results get better or worse? Why?
 <br />
 
 ### Q3. CLASSIFICATION
@@ -81,9 +81,9 @@ ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovar
 
 **Q3.1.** Design a logistic regression classifier to identify (differentiate) benign and malignant cells. Report the performance of the classification technique on the training and test sets. You can report accuracy, precision and recall. Compare the performance of the classifier on the training and test set and provide a reason as to why one is better than the other.
 <br />
-Hint: Use the "binomial" option to obtain the output as a probability between 0 and 1 (use type="response" in predict() ). Then use P=0.5 as the threshold to separate probabilities into "M" and "B".
+*Hint:* Use the "binomial" option to obtain the output as a probability between 0 and 1 (use type="response" in predict() ). Then use P=0.5 as the threshold to separate probabilities into "M" and "B".
 <br />
-Hint: Do not worry if the model does not converge.
+*Hint:* Do not worry if the model does not converge.
 <br />
 
 **Q3.2.** Repeat the same task as Q3.1. with the top 5 PCs.
@@ -102,7 +102,6 @@ predict <- prediction(pred_prob, dataset$diagnosis, label.ordering=c("B","M"))
 perform <- performance(predict,"tpr","fpr")
 plot(perform,colorize=TRUE)
 ```
-<br />
 This will generate an ROC curve of the performance of the classifier for a range of thresholds. Take a look at https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5 for a summary of ROC curves.
 <br />
 Given our ROC curve, what would you say it tells us about the overlap of the two classes? What can we say about the model's separability? How does an ROC curve tell us more about the model's performance than a single sensitivity/specificity measure?
@@ -112,6 +111,6 @@ Given our ROC curve, what would you say it tells us about the overlap of the two
 <br />
 
 ### List of functions to use:
-Note: This list is not comprehensive, but includes most of the functions you will need.
+*Note:* This list is not comprehensive, but includes most of the functions you will need.
 
 library(ggplot2), library(ROCR), prcomp(), summary(), as.data.frame(), ggplot(), boxplot(), scale(), kmeans(), ifelse(), table(), glm(), predict()
