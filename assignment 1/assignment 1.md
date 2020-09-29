@@ -73,11 +73,11 @@ When comparing model predictions to true labels, obtain a confusion matrix and i
 
 ### Q3. CLASSIFICATION
 Divide your data into training and test sets using the following command:
-<br />
+```
 ovarian.dataset.train <- ovarian.dataset[sample(nrow(ovarian.dataset))[1:(nrow(ovarian.dataset)/2)],]
 <br />
 ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovarian.dataset)/2):(nrow(ovarian.dataset))],]
-<br />
+```
 
 **Q3.1.** Design a logistic regression classifier to identify (differentiate) benign and malignant cells. Report the performance of the classification technique on the training and test sets. You can report accuracy, precision and recall. Compare the performance of the classifier on the training and test set and provide a reason as to why one is better than the other.
 <br />
