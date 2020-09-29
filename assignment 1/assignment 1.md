@@ -75,7 +75,6 @@ When comparing model predictions to true labels, obtain a confusion matrix and i
 Divide your data into training and test sets using the following command:
 ```
 ovarian.dataset.train <- ovarian.dataset[sample(nrow(ovarian.dataset))[1:(nrow(ovarian.dataset)/2)],]
-<br />
 ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovarian.dataset)/2):(nrow(ovarian.dataset))],]
 ```
 
