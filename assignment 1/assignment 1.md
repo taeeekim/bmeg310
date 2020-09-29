@@ -80,7 +80,7 @@ ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovar
 
 **Q3.1.** Design a logistic regression classifier to identify (differentiate) benign and malignant cells. Report the performance of the classification technique on the training and test sets. You can report accuracy, precision and recall. Compare the performance of the classifier on the training and test set and provide a reason as to why one is better than the other.
 <br />
-*Hint:* Use the "binomial" option to obtain the output as a probability between 0 and 1 (use type="response" in predict() ). Then use P=0.5 as the threshold to separate probabilities into "M" and "B".
+*Hint:* Use the "binomial" option while training and use predict(..., type="response") to obtain the result as a probability. Then use P=0.5 as the threshold to separate probabilities into "M" and "B".
 <br />
 *Hint:* Do not worry if the model does not converge.
 <br />
