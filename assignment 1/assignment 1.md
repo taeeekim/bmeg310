@@ -49,7 +49,7 @@ Try head(ovarian.dataset) to get a sense of the data that has been loaded.
 *Hint 3:* PCA transforms the data into new dimension.
 
 ### Q2. CLUSTERING
-When comparing model predictions to true labels, obtain a confusion matrix and include this result in your submission. You can obtain this by using table(predictions, labels)
+When comparing model predictions to true labels, obtain a confusion matrix and include this result in your submission. You can obtain this by using the table() function like so: table(predictions, labels)
 
 **Q2.1.** Apply kmeans clustering on the data and identify two clusters within your dataset. What is the concordance between the clusters that you have identified and the true labels of the cells (Benign vs Malignant).
 <br />
@@ -107,7 +107,7 @@ This will generate an ROC curve of the performance of the classifier for a range
 Given our ROC curve, what would you say it tells us about the overlap of the two classes? What can we say about the model's separability? How does an ROC curve tell us more about the model's performance than a single sensitivity/specificity measure?
 <br />
 
-**Q2.6 (bonus).** Design another classifier (using a different classification method) and repeat Q3.1-3.  
+**Q3.6 (bonus).** Design another classifier (using a different classification method) and repeat Q3.1-3.  
 <br />
 
 ### List of functions to use:
