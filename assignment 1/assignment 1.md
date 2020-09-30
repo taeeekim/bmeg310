@@ -8,7 +8,7 @@ We would like to perform exploratory analysis of the measured features and see i
 When you submit your assignment, please include all results and plots as well as all relevant code used for each section. 
 
 ## How to download the data and read the data
-You can download the data from the github folder for assignment 1, named "ovarian.data"
+You can download the data named "ovarian.data" from here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/ovarian.data) 
 
 You can use the following commands to read the data file:
 ```
