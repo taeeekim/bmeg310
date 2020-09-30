@@ -54,3 +54,7 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br /> &nbsp;&nbsp;&nbsp;
 1.3. Cheatsheets for Machine Learning Concepts can be found here: [Link](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
+## Assignment 1: R/Machine Learning 
+You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
+
+
