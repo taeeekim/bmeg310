@@ -64,7 +64,7 @@ When comparing model predictions to true labels, obtain a confusion matrix and i
 <br />
 
 **Q2.3.** Repeat the same analysis but with the top 5 PCs. 
-*Hint:* From the PCA results, take the top 5 PCs and repeat the analysis.
+*Hint:* From the PCA results, take the top 5 PCs and repeat the analysis. Do not scale the PCA data, however, as PCA has already taken care of this.
 <br />
 
 **Q2.4.** Compare the results between Q2.1. and Q2.2. 
