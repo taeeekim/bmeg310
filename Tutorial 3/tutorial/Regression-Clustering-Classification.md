@@ -1020,7 +1020,7 @@ Use the ‘*Hoja3*’ sheet of the ‘*example_linear-reg_dataset1.xls*’ datas
 
 **Clustering Exercise:**
 
-- Compute hierarchical clustering for this same dataset with the ‘complete’ linkage methods and compare the results with that generated from the ‘average’ linkage method. Submit the code, results, and a small conclusion.
+- Compute hierarchical clustering for the *'data_seeds'* dataset with the ‘complete’ linkage methods and compare the results with that generated from the ‘average’ linkage method. Submit the code, results, and a small conclusion.
 - Modify the code for the final mtcars PCA plot that we generated in the examples, to include a title. Also, when re-generating the plot, remove the arrows to generate a clean and annotated PCA plot.
 
 
