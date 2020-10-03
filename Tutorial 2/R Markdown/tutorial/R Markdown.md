@@ -129,9 +129,9 @@ The *output:* value determines what type of file to render into:
 
    
 
-   1. Give these markdown conventions a try in a plain text file. Make sure you put in lists, headers, hyperlinks, bold and Italic text in there. Save the text file with an *.Rmd* suffix and then, render it as a pdf file. You can give it whatever title you wish. Send the *Rmd* and *pdf* documents to your TA.
+   1. Give these markdown conventions a try in a plain text file. Make sure you put in lists, headers, hyperlinks, bold and Italic text in there. Save the text file with an *.Rmd* suffix and then, render it as an HTML file. You can give it whatever title you wish. Submit the *Rmd* and *html* documents.
 
-   2. Open a new R Markdown document and give it a title of your choice. In this document, add an r-code to read the ‘SalesJan2009.csv’ dataset in a variable called 'metadata' and plot a graph using *plot(metadata)*. The plot will display the relationship between the variables in the dataset. Render the output as an *ioslides_presentation*. Send the *Rmd* file and the output document to your TA.
+   2. Open a new R Markdown document and give it a title of your choice. In this document, add an r-code to read the ‘SalesJan2009.csv’ dataset in a variable called 'metadata' and plot a graph using *plot(metadata)*. The plot will display the relationship between the variables in the dataset. Render the output as an HTML document. Submit the *Rmd* and *html* documents.
 
       
 
