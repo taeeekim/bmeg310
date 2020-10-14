@@ -1,0 +1,31 @@
+---
+title: "Tutorial 1"
+author: "Ali Chamkalani"
+---
+
+## Exercise 1
+
+```{r}
+# I name my function as "funFilter"
+funFilter <- function(path){
+  data = read.csv(path)
+  row.names(data) = data[,1]
+  data = data[,-1]
+  
+  data$Avg_score = apply(data, 1, mean)
+  GeneID = which.max(data$Avg_score)
+  geneName = row.names(data)[GeneID]
+  print(geneName)
+  
+  meanAve = mean(data$Avg_score)
+  sdAve = sd(data$Avg_score)
+  
+  GeneIDs = which(data$Avg_score>2*sdAve+meanAve)
+  geneNameS = row.names(data)[GeneIDs]
+  print(length(geneNameS))
+  print(geneNameS)
+}
+
+funFilter("data/GSE71562.csv")
+
+```
