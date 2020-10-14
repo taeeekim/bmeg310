@@ -3,7 +3,7 @@
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
 ## Groups for Final Project
-Please see this link to find your teemmate for final project [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Groups.html)
+Please see this link to find your teammate for final project [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Groups.html)
 
 ## Assignment Guidelines
 Please see this link as update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
