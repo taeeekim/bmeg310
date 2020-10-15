@@ -10,7 +10,8 @@ Use the tables linked to in the appendix to help you interpret the contents of t
 In your answers, please list all relevant code used and results found.
 
 ## Data and Requirements
-You can download the data from here: [link]
+You can download the data for Q1-Q2 from here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
+and the data for Q3 from here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/RNA_seq_annotated_variants.vcf)
 
 ## Questions
 ### Q1. Looking at the Metadata
