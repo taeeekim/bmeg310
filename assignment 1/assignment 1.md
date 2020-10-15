@@ -67,7 +67,7 @@ When comparing model predictions to true labels, obtain a confusion matrix and i
 *Hint:* From the PCA results, take the top 5 PCs and repeat the analysis. Do not scale the PCA data, however, as PCA has already taken care of this.
 <br />
 
-**Q2.4.** Compare the results between Q2.1. and Q2.2. 
+**Q2.4.** Compare the results between Q2.2. and Q2.3. 
 *Hint:* Do the results get better or worse? Why?
 <br />
 
@@ -94,7 +94,7 @@ ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovar
 **Q3.4.** Compare the results of the clustering and classification methods. Which one gives you better result?
 <br />
 
-**Q3.5.** Install the library "ROCR" and load it. Then, run the following lines using your trained linear regression model:
+**Q3.5.** Install the library "ROCR" and load it. Then, run the following lines using your trained logistic regression model:
 ```
 pred.prob <- predict(your.model, ovarian.dataset, type="response")
 predict <- prediction(pred.prob, ovarian.dataset$diagnosis, label.ordering=c("B","M"))
