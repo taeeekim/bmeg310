@@ -98,7 +98,7 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 **Q3.5.** What is a frameshift variant? Does it have a greater or lesser effect on the resultant protein than a missense variant? Why? 
 <br />
 
-**Q3.6.** We can divide variants into three broad categories: synonymous/non-impactful, non-synonymous, and frameshift. We can in general use snpEff's impact field to broadly categorize variants into synonymous and non-synonymous types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of synonymous variants. Also, count the number of potential frameshift mutations. What do you notice about the number of synonymous variants (compared to overall number of variants)?
+**Q3.6.** We can divide variants into three broad categories: synonymous/non-impactful, non-synonymous, and frameshift. We can in general use snpEff's impact field to broadly categorize variants into synonymous and non-synonymous types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential synonymous variants (where at least one snpEff annotation contains the relevant tag). Also, count the number of potential frameshift mutations. What do you notice about the number of synonymous variants (compared to overall number of variants)?
 <br />
 *Hint:* Use grepl() on the INFO field to look for tell-tale tags.
 <br />
