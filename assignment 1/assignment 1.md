@@ -94,7 +94,7 @@ ovarian.dataset.test <- ovarian.dataset[sample(nrow(ovarian.dataset))[(nrow(ovar
 **Q3.4.** Compare the results of the clustering and classification methods. Which one gives you better result?
 <br />
 
-**Q3.5.** Install the library "ROCR" and load it. Then, run the following lines using your trained linear regression model:
+**Q3.5.** Install the library "ROCR" and load it. Then, run the following lines using your trained logistic regression model:
 ```
 pred.prob <- predict(your.model, ovarian.dataset, type="response")
 predict <- prediction(pred.prob, ovarian.dataset$diagnosis, label.ordering=c("B","M"))
