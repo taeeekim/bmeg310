@@ -67,6 +67,8 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/tcga_data.rar)
 <br /> &nbsp;&nbsp;&nbsp;
 
+* It is required to submit both .Rmd and HTML version of deliverable file 
+
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
