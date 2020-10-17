@@ -58,6 +58,17 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br /> &nbsp;&nbsp;&nbsp;
 1.3. Cheatsheets for Machine Learning Concepts can be found here: [Link](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
+## Tutorial 5 (Week of Oct 23, 2020): Introduction to Survival Analysis
+
+1- Survival analysis on TCGA data:
+<br /> &nbsp;&nbsp;&nbsp;
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/Survival_Analysis_V2.html)
+<br /> &nbsp;&nbsp;&nbsp;
+1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/tcga_data.rar)
+<br /> &nbsp;&nbsp;&nbsp;
+
+* It is required to submit both .Rmd and HTML version of deliverable file 
+
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
