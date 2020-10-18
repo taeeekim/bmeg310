@@ -13,6 +13,11 @@ In your answers, please list all relevant code used and results found.
 You can download the data for Q1-Q2 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
 and the data for Q3 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/RNA_seq_annotated_variants.vcf)
 
+## Piazza Posts
+If you have questions as you are completing the assignment, do not include any of your answers or code when posting on Piazza. Any such posts will be ignored or deleted. If you absolutely need to share your code or answers to get help on the assignment, please make the post private to instructors only. If it is a common issue, then we will make an announcement about it.
+
+Remember, tutorials are always an option to ask any type of question.
+
 ## Questions
 ### Q1. Looking at the Metadata
 **Q1.1.** Use `read.csv("single_cell_RNA_seq_bam.sam", nrows=73, sep="\t", header=FALSE, fill=TRUE)` to load the first 73 lines of the header of the file and print the contents. These lines contain tabulated information about the BAM file and the circumstances of its data collection. According to the header table in section 1.3 of the BAM/SAM document in the appendix, what do the `SN` and `LN` tags indicate?
