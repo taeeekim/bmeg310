@@ -72,4 +72,5 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
-
+## Assignment 2: Aligned DNA Reads and Variant Calling
+You can find assignment 2 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/Assignment%202.md)
