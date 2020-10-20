@@ -57,7 +57,7 @@ TBD
     * **Analysis Plan:** Give a detailed description of your planned workflow and analysis plan including the algorithms you would like to use and the patient variables you would like to investigate.
     * **Challenges:** Use this section to address any difficulties you are encountering, or expect you will encounter. This may include limitations of a current approach or a lack of meaningful results. Please explain why you believe this problem is occurring, and highlight any limitations in your data you have found. You may also include a section for serious computational errors or bugs if they are seriously holding you back, but it would be preferred that most errors encountered are posted to Piazza.
     * **Timeline:** Discuss progress up to this point, as well as a list of tasks that still need to be completed. For each group member, provide a list of work done and tasks to which they have contributed, as well as a list of tasks to which they are assigned moving forwards. Note, writing reports/preparing the presentation are also project tasks and should be listed.
-* The report should not be longer than 2 pages in 11 point font.
+* The report should not be longer than 2 pages in 11 point font Times New Roman.
 * Marks will be awarded for the organization of the report contents (20%), clarity of project goal/hypothesis (30%), completeness of workflow/methods (40%) and organization of project timeline (10%)
 * There will be no marks deducted for addition of or lack of any challenges/errors, but professionalism of the assessment of limitations and problems will contribute to workflow and report organization marks. 
 
@@ -67,7 +67,7 @@ TBD
     * **Methods:** Give a detailed walkthrough of the workflow you have developed. Provide a reason why each component was chosen, and explain how the workflow is suited to the research question you have defined.
     * **Discussion:** Provide a detailed overview of your results through each stage of your analysis. Clearly highlight any information relevant to the overall result you have found, including any challenges you faced with your dataset or workflow. Show how this information has led you to a conclusion regarding the results of your investigations and how this conclusion addresses your research question. If no conclusive result was found, explain why you believe this is the case, citing trends in your data. If you have found important trends in your data related to the genome, propose a biological interpretation of these trends in terms of possible mechanisms. Try to link any biological effects to potential clinical relevance.
 * Presentation time should be divided approximately equally among team members so that everyone gets to contribute
-* Marks will be awarded for organization of presentation (20%), clarity of visual aspect of presentation (20%), clarity and completeness of project goals, methods, and results (ie. the goal and methods are logical and the results are well explained in the context of the research question) (40%), and 20% for clarity of speakers explanations and discussion (awarded per individual speaker).
+* Marks will be awarded for organization of presentation (20%), clarity of visual aspect of presentation (20%), clarity and completeness of project goals, methods, and results (ie. the goal and methods are logical and the results are well explained in the context of the research question) (40%), and 20% for clarity of speaker's explanations and discussion (awarded per individual speaker).
 * Marks will not be deducted for inconclusive results. However, it is expected that some result (promising or not) will be obtained, and the presentation should try to explain the context of these results and speak to their origin.
 
 **Part 4:** 
@@ -79,8 +79,15 @@ TBD
     * Marks will be awarded for completeness of the code base (50%), and organization and clarity of code (50%)
 
 2. **Final Report** 
-    * Details to be updated
+    * This report should contain the following sections:
+        * **Abstract** Give an overview summarizing the contents of your report with focus on purpose, results, and relevancy of your work.
+        * **Introduction** Explain the background of your investigation, including relevant information regarding the cancer in question. Outline the goal of the project including the research question and hypothesis, and explain the importance of your investigation to possible biological and clinical applications.
         * **Methods** Give a detailed explanation of your workflow including the algorithms you have used and the structure of the data with which you are working. Provide reasoning for every choice you have made in the design of your workflow, placing it in the context of the data. Explain how the workflow is suited to the research question you have defined.
+        * **Results** Citing relevant figures and tables, summarize the results of your investigation. Use methods of presenting data such as those which have been covered in assignments and tutorials to convey your results concisely and frame any important trends that have been discovered, or use them to highlight a lack of important trends if this was the case.
+        * **Discussion** Highlight important trends in your data and explain them both in the context of the data and in the context of biological/environmental factors of the disease where possible. Discuss any challenges which were faced with the dataset and workflow, and explain how they were addressed. Present a conclusion based on the results of the investigation and explain how this addresses the research question and hypothesis.
+    * The report should not be longer than 8 pages in 11 point font Times New Roman, including tables and figures.
+    * Cite references where relevant. Use IEEE style and include a bibliography at the end of the report. Often a reference or two can help explain the disease or give credence to a trend you see in the data.
+    * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
 
 3. **Peer Feedback Survey**
     * At the end of the course, students will be required to submit a peer feedback survey, requiring them to rate teammates based indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others
