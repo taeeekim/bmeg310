@@ -26,7 +26,7 @@ Remember, tutorials are always an option to ask any type of question.
 **Q1.2.** A sequence is any template string of bases to which we can align a read. This includes chromosomes (which are continuous sequences of bases) and new strings resulting from genetic modifications. What is the length of the X chromosome, in bp, for our alignment?
 <br />
 
-Fun fact (not tested): One of the sequences in this BAM file titled Cre_ERT2 is a Cre-recombinase variant. Cre recombinase, when combined with the loxP sequence (see [cre-lox recombination](https://en.wikipedia.org/wiki/Cre-Lox_recombination) is the primary element used in many experiments (such as this one) to induce a genetic modification to certain cells in vivo. This allows us to study the effect of changing a gene at any time during the life cycle of an organism, and has allowed us to make discoveries in many areas including stem cell research.
+Fun fact (not tested): One of the sequences in this BAM file titled Cre_ERT2 is a Cre-recombinase variant. Cre recombinase, when combined with the loxP sequence (see [cre-lox recombination](https://en.wikipedia.org/wiki/Cre-Lox_recombination)) is the primary element used in many experiments (such as this one) to induce a genetic modification to certain cells in vivo. This allows us to study the effect of changing a gene at any time during the life cycle of an organism, and has allowed us to make discoveries in many areas including stem cell research.
 
 ### Q2. Looking at the Reads
 **Q2.1.** Use the code below to load the reads into an R dataframe. Each row contains one read. How many reads are there in this BAM file?
