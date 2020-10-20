@@ -28,7 +28,7 @@ In this project you will perform analysis on a TCGA Cancer dataset similarly to 
 
 ### Data:
 
-You will be using datasets from The Cancer Genome Atlas (TCGA) containing variant calls, expression levels, and comprehensive individual data for many patients who underwent treatment for the same cancer type. Each team will be randomly assigned a dataset for analysis. Data sets can be found <here>.
+You will be using datasets from The Cancer Genome Atlas (TCGA) containing variant calls, expression levels, and comprehensive individual data for many patients who underwent treatment for the same cancer type. Each team will be randomly assigned a dataset for analysis. Data sets can be found [here]() (not yet organised).
 
 Within each dataset are 3 files of importance:
 **data_clinical_patient.txt** : contains a list of patients with data on each individual such as Age, Sex, Race, and Survival
