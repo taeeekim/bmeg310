@@ -14,7 +14,7 @@ The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the 
 
 **December 5:** Oral Presentations (15% of grade)
 
-**December 15:** Github Repo Due (10% of grade), Final Report Due (15% of grade), Peer Feedback Survey Due
+**December 15:** Github Repo Due (10% of grade), Final Report Due (15% of grade), Peer Feedback Survey Due (5% of grade)
 
 ## Teams:
 
