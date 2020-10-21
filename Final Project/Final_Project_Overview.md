@@ -6,7 +6,7 @@ The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the 
 
 ## Timeline:
 
-**October 14:** Project Teams Announced. Available at https://github.com/bmeg310ubc/bmeg310
+**October 14:** Project Teams Announced. Available at [link]https://github.com/bmeg310ubc/bmeg310
 
 **October 27:** Group Check In, Project Proposal Due for self-identified projects (not marked, but required)
 
