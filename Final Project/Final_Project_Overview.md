@@ -18,7 +18,7 @@ The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the 
 
 ## Teams:
 
-Students will be organised into teams of 4-5 to complete the project by random assignment. We have done our best to organise teams so that there is at least one representative of each subdiscipline of BMEG per team. We have also attempted to organise students by time zone, so that students in similar time zones can easily have meetings together. 
+Students are organised into teams of 4-5 to complete the project by random assignment. We have done our best to organise teams so that there is at least one representative of each subdiscipline of BMEG per team. We have also attempted to organise students by time zone, so that students in similar time zones can easily have meetings together. 
 
 *Please reach out to your teammates early on to ensure that it is easy to communicate, and if any issues come up, please let an instructor know as soon as possible.*
 
