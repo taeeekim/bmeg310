@@ -41,10 +41,6 @@ These files will be used for the bulk of the analysis. All major data preprocess
 
 The research process is the list of steps that are taken to extract relevant information from the data and assess it to look for trends. Groups should take a look at their data and propose an outline of the steps they plan to take during analysis and the type of results to be expected (in the Project Proposal deliverable). This notably should include any preferred classification/clustering/regression algorithms, which patient variables will be used, and how expression and variant data will each be used. This should be organised as a list of steps, ie. a pipeline or workflow, to show how information will be processed each step of the way from the base data to the final result. It is also recommended to develop a timeline for completing each step in the workflow. Instructors will be able to give feedback to make sure the approach is feasible and offer suggestions of improvement.
 
-### Creating a Hypothesis:
-
-A hypothesis is any proposal about the cancer/dataset which may be tested by investigation. It might be very general (eg. there exist a selection of differentially expressed genes which can explain population differences in life expectancy) or very specific (eg. in a given subgroup, a certain mutation correlates very strongly with differential expression of an oncogene). The hypothesis should be designed so that it may be answered to some extent by analysis of expression levels, variants, and at least one patient factor. The hypothesis should be relevant, ie. there should be some feasible potential biological explanation for the hypothesis should it be found to be true. The hypothesis is not set in stone, and may easily change over the course of the project as teams learn more about trends in their data.
-
 ## Deliverables:
 
 **Part 1:** Group Check-in and Project Proposal 
@@ -92,7 +88,7 @@ A hypothesis is any proposal about the cancer/dataset which may be tested by inv
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
 
 3. **Peer Feedback Survey**
-    * At the end of the course, students will be required to submit a peer feedback survey, requiring them to rate teammates based indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others
+    * At the end of the course, students will be required to submit a peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others
     * This will count towards the collaboration portion of the course grade, worth 5%
 
 **Part 5:** Peer grading of submitted presentations (due Dec 15)
