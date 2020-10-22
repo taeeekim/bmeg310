@@ -92,7 +92,7 @@ Note: This is a general overview. Detailed rubrics for each marked section will 
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
 
 3. **Peer Feedback Survey**
-    * At the end of the course, students will be required to submit a peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others
+    * At the end of the course, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. We will share more details when we get closer to the deadline.
     * This will count towards the collaboration portion of the course grade, worth 5%
 
 **Part 5:** Peer grading of submitted presentations (due Dec 15)
