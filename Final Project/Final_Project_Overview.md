@@ -1,4 +1,4 @@
-# BMEG 310 Project Overview
+# BMEG 310 Project Overview (Tentative)
 
 ## General:
 
@@ -8,7 +8,7 @@ The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the 
 
 **October 14:** Project Teams Announced. Available at [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Groups.html)
 
-**October 27:** Group Check In, Project Proposal Due for self-identified projects (not marked, but required)
+**TBD:** Group Check In, Project Proposal Due for self-identified projects (not marked, but required)
 
 **November 21:** Progress Report Due (5% of grade)
 
