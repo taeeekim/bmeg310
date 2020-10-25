@@ -1,4 +1,4 @@
-# BMEG 310 Project Overview (Tentative)
+# BMEG 310 Project Overview (Tentative; Release Date: Oct 27, 2020)
 
 ## General:
 
