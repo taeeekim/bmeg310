@@ -89,7 +89,7 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br />
 
 
-* Deliverable file:
+* Deliverable file: [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Deliverable.html)
 
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
