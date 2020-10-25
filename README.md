@@ -72,12 +72,13 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 ## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
 
 1- Introduction to UCSC:
+<br />
 2- Introduction to TRACKs:
 <br /> &nbsp;&nbsp;&nbsp;
 2.1. Part 1
 <br /> &nbsp;&nbsp;&nbsp;
 2.2. Part 2
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 3- How to get data using Table Browser:
 <br /> &nbsp;&nbsp;&nbsp;
 4- How to find All the SNPs for a gene:
