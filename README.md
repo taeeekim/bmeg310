@@ -70,7 +70,7 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 * It is required to submit both .Rmd and HTML version of deliverable file 
 
 ## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
-Link to Tutorial here: [link](https://www.youtube.com/playlist?list=PLrMptZQwFBe7I7Df_OGZoiak-d7sXfuGD)
+Link to the video Tutorials: [link](https://www.youtube.com/playlist?list=PLrMptZQwFBe7I7Df_OGZoiak-d7sXfuGD)
 
 1- Introduction to UCSC
 <br />
