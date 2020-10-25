@@ -72,7 +72,6 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 ## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
 
 1- Introduction to UCSC:
-<br /> &nbsp;&nbsp;&nbsp;
 2- Introduction to TRACKs:
 <br /> &nbsp;&nbsp;&nbsp;
 2.1. Part 1
