@@ -49,7 +49,7 @@ Note: This is a general overview. Detailed rubrics for each marked section will 
 
 **Part 1:** Group Check-in and Project Proposal 
 * It is required that all groups create a document either affirming that everyone in the group is able to communicate with one another or outlining any issues with collaboration, such as conflicting time zones, or any other inability to contact any group member. 
-* If a group is working with a self-identified topic, such as a different dataset than was assigned (could even be non-cancer), a proposal is mandatory (Due October 27th). It is also required that these groups will give a detailed overview of the contents of their dataset, including the number of patients/individuals for which data is available, the degree of pre-processing which will need to be performed on data to prepare for analysis, and the extent of patient metadata such as traits and survival statistics.
+* If a group is working with a self-identified topic, such as a different dataset than was assigned (could even be non-cancer), a proposal is mandatory (Due Nov 2nd). It is also required that these groups will give a detailed overview of the contents of their dataset, including the number of patients/individuals for which data is available, the degree of pre-processing which will need to be performed on data to prepare for analysis, and the extent of patient metadata such as traits and survival statistics.
 
 **Part 2:** Progress Report
 * This report should be organised and contain the following sections:
