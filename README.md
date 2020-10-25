@@ -80,13 +80,13 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 2.2. Part 2
 <br />
 3- How to get data using Table Browser:
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 4- How to find All the SNPs for a gene:
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 5- Which pathways a gene has contribution:
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 6- BLAT: Aligning a sequence and get many associated info to its gene
-<br /> &nbsp;&nbsp;&nbsp;
+<br />
 
 
 * It is required to submit both .Rmd and HTML version of deliverable file 
