@@ -70,24 +70,16 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 * It is required to submit both .Rmd and HTML version of deliverable file 
 
 ## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
+Link to Tutorial here: [link](https://www.youtube.com/playlist?list=PLrMptZQwFBe7I7Df_OGZoiak-d7sXfuGD)
 
-1- Introduction to UCSC:
+1- Introduction to UCSC
 <br />
-2- Introduction to TRACKs:
-<br /> &nbsp;&nbsp;&nbsp;
-2.1. Part 1
-<br /> &nbsp;&nbsp;&nbsp;
-2.2. Part 2
+2- Introduction to TRACKs
 <br />
-3- How to get data using Table Browser:
+3- How to get data using Table Browser
 <br />
-4- How to find All the SNPs for a gene:
+4- How to find All the SNPs for a gene
 <br />
-5- Which pathways a gene has contribution:
-<br />
-6- BLAT: Aligning a sequence and get many associated info to its gene
-<br />
-
 
 * Deliverable file: [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Deliverable.html)
 
