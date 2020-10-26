@@ -92,15 +92,11 @@ Note: This is a general overview. Detailed rubrics for each marked section will 
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
 
 3. **Peer Feedback Survey**
-    * At the end of the course, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. We will share more details when we get closer to the deadline.
-    * This will count towards the collaboration portion of the course grade, worth 5%
+    * At the end of the course, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. This will count towards the collaboration portion of the course grade, worth 5%.
+    * The collaboration portion of the project will be assessed based on individual contribution to project as evaluated from the progress report, final report, and peer feedback survey, and students who contribute meaningfully to the project and make a strong effort to collaborate and communicate with teammates will receive full marks.
+    * **NOTE:** Although the peer feedback section is worth 5%, the teaching team reserves the right to deduct individual project grades beyond this amount if they identify a situation where specific group members have made no significant contribution to the project or deliverables.
 
 **Part 5:** Peer grading of submitted presentations (due Dec 15)
 * We will assign each team 5 projects and they will need to watch the submitted videos and mark them according to the criteria for oral presentations. 
 * In addition to the peer evaluation, at least two of the teaching team (instructors & TAs) will grade the project. 
 * Final grade for the presentation will be the aggregate of the peer evaluation (30%) and teaching team (70%). 
-
-## Collaboration Assessment
-* Worth 5% of final grade
-* This will be assessed based on individual contribution to project as evaluated from the progress report, final report, and peer feedback survey
-* Students who contribute meaningfully to the project and make a strong effort to collaborate and communicate with teammates will receive full marks
