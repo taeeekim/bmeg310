@@ -104,7 +104,7 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 **Q3.5.** What is a frameshift variant? Does it have a greater or lesser effect on the resultant protein than a missense variant? Why? 
 <br />
 
-**Q3.6.** We can divide variants into two broad categories: intergenic (in between introns ie. exonic) and intragenic (intronic). We can in general use snpEff's impact field to broadly categorize variants into intergenic and intragenic types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential exonic variants (where at least one snpEff annotation entry contains the relevant tag). What do you notice about the number of exonic variants (compared to overall number of variants)?
+**Q3.6.** We can divide variants into two broad categories: intergenic (in between introns ie. exonic) and intragenic (intronic). We can in general use snpEff's impact field to broadly categorize variants into intergenic and intragenic types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential intronic variants (where at least one snpEff annotation entry contains the relevant tag). What do you notice about the number of intronic variants (compared to overall number of variants)?
 <br />
 *Hint:* Use grepl() on the INFO field to look for tell-tale tags.
 <br />
