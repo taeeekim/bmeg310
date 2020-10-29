@@ -2,8 +2,11 @@
 
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
-## Groups for Final Project
-Please see this link to find your teammate for final project [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Groups.html)
+## Final Project
+**Teams**: Please see this link to find your teammate for final project [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Groups.html)
+
+**Instruction**: Please follow this link to find information regarding your projects [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Final%20Project/Final_Project_Overview.md)
+
 
 ## Assignment Guidelines
 Please see this link as update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
@@ -69,7 +72,24 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 
 * It is required to submit both .Rmd and HTML version of deliverable file 
 
+## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
+Link to the video Tutorials: [link](https://www.youtube.com/playlist?list=PLrMptZQwFBe7I7Df_OGZoiak-d7sXfuGD)
+
+This tutorial covers 4 topics as follows:
+<br />
+1- Introduction to UCSC
+<br />
+2- Introduction to TRACKs
+<br />
+3- How to get data using Table Browser
+<br />
+4- How to find All the SNPs for a gene
+<br />
+
+* Deliverable file: [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Deliverable.html)
+
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
-
+## Assignment 2: Aligned DNA Reads and Variant Calling
+You can find assignment 2 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/Assignment%202.md)

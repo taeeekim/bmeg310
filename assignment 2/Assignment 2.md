@@ -1,4 +1,4 @@
-# Assignment 2 (Tentative)
+# Assignment 2
 
 ## Introduction
 We have taken a tissue sample from a genetically modified mouse and performed RNA sequencing with the intention of exploring the expression levels. Attached to this assignment is a BAM file for one of those individual cells (in '.sam' format to be readable). This file contains reads which have been aligned to the mouse genome.
@@ -13,6 +13,11 @@ In your answers, please list all relevant code used and results found.
 You can download the data for Q1-Q2 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
 and the data for Q3 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/RNA_seq_annotated_variants.vcf)
 
+## Piazza Posts
+If you have questions as you are completing the assignment, do not include any of your answers or code when posting on Piazza. Any such posts will be ignored or deleted. If you absolutely need to share your code or answers to get help on the assignment, please make the post private to instructors only. If it is a common issue, then we will make an announcement about it.
+
+Remember, tutorials are always an option to ask any type of question.
+
 ## Questions
 ### Q1. Looking at the Metadata
 **Q1.1.** Use `read.csv("single_cell_RNA_seq_bam.sam", nrows=73, sep="\t", header=FALSE, fill=TRUE)` to load the first 73 lines of the header of the file and print the contents. These lines contain tabulated information about the BAM file and the circumstances of its data collection. According to the header table in section 1.3 of the BAM/SAM document in the appendix, what do the `SN` and `LN` tags indicate?
@@ -21,7 +26,7 @@ and the data for Q3 from [here](https://github.com/bmeg310ubc/bmeg310/blob/maste
 **Q1.2.** A sequence is any template string of bases to which we can align a read. This includes chromosomes (which are continuous sequences of bases) and new strings resulting from genetic modifications. What is the length of the X chromosome, in bp, for our alignment?
 <br />
 
-Fun fact (not tested): One of the sequences in this BAM file titled Cre_ERT2 is a Cre-recombinase variant. Cre recombinase is the primary element used in many experiments (such as this one) to induce a genetic modification to certain cells in vivo. This allows us to study the effect of changing a gene at any time during the life cycle of an organism, and has allowed us to make discoveries in many areas including stem cell research.
+Fun fact (not tested): One of the sequences in this BAM file titled Cre_ERT2 is a Cre-recombinase variant. Cre recombinase, when combined with the loxP sequence (see [cre-lox recombination](https://en.wikipedia.org/wiki/Cre-Lox_recombination)) is the primary element used in many experiments (such as this one) to induce a genetic modification to certain cells in vivo. This allows us to study the effect of changing a gene at any time during the life cycle of an organism, and has allowed us to make discoveries in many areas including stem cell research.
 
 ### Q2. Looking at the Reads
 **Q2.1.** Use the code below to load the reads into an R dataframe. Each row contains one read. How many reads are there in this BAM file?
@@ -99,7 +104,7 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 **Q3.5.** What is a frameshift variant? Does it have a greater or lesser effect on the resultant protein than a missense variant? Why? 
 <br />
 
-**Q3.6.** We can divide variants into three broad categories: synonymous/non-impactful, non-synonymous, and frameshift. We can in general use snpEff's impact field to broadly categorize variants into synonymous and non-synonymous types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential synonymous variants (where at least one snpEff annotation contains the relevant tag). Also, count the number of potential frameshift mutations. What do you notice about the number of synonymous variants (compared to overall number of variants)?
+**Q3.6.** We can divide variants into two broad categories: intronic/intergenic and exonic. We can in general use snpEff's impact field to broadly categorize variants into intronic and exonic types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential intronic variants (where at least one snpEff annotation entry contains the relevant tag). What do you notice about the number of intronic variants (compared to overall number of variants)?
 <br />
 *Hint:* Use grepl() on the INFO field to look for tell-tale tags.
 <br />
