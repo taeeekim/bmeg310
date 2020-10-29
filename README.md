@@ -61,6 +61,8 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br /> &nbsp;&nbsp;&nbsp;
 1.3. Cheatsheets for Machine Learning Concepts can be found here: [Link](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
+2- Solution: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%203/solution/Regression-Clustering-Classification-Exercise-Solution.pdf)
+
 ## Tutorial 5 (Week of Oct 19, 2020): Introduction to Survival Analysis
 
 1- Survival analysis on TCGA data:
