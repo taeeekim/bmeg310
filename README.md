@@ -92,11 +92,11 @@ This tutorial covers 4 topics as follows:
 
 ## Tutorial 7 (Week of Nov 2, 2020): Introduction to Differential Expression and Pathway Analysis
 
-1- Introduction to DE and Pathway analysis[link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/DE.html)
+1- Introduction to DE and Pathway analysis [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/DE.html)
 <br />
-2- Data[link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%207)
+2- Data [link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%207)
 <br />
-3- Change Log: Any further changes in this tutorial will be announced here[link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/Change_Log)
+3- Change Log: Any further changes in this tutorial will be announced here [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/Change_Log)
 <br />
 
 * It is required to submit both .Rmd and HTML version of deliverable file 
