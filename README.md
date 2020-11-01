@@ -74,6 +74,8 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 
 * It is required to submit both .Rmd and HTML version of deliverable file 
 
+2- Solution: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/Solution.html)
+
 ## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
 Link to the video Tutorials: [link](https://www.youtube.com/playlist?list=PLrMptZQwFBe7I7Df_OGZoiak-d7sXfuGD)
 
@@ -88,7 +90,16 @@ This tutorial covers 4 topics as follows:
 4- How to find All the SNPs for a gene
 <br />
 
-* Deliverable file: [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Deliverable.html)
+## Tutorial 7 (Week of Nov 2, 2020): Introduction to Differential Expression and Pathway Analysis
+
+1- Introduction to DE and Pathway analysis[link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/DE.html)
+<br />
+2- Data[link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%207)
+<br />
+3- Change Log: Any further changes in this tutorial will be announced here[link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/Change_Log)
+<br />
+
+* It is required to submit both .Rmd and HTML version of deliverable file 
 
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
