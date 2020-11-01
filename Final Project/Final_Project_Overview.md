@@ -2,6 +2,7 @@
 
 ## Change Log
 Here you will see the list of latest changes in the document.
+- None for now (AB)
 
 ## General:
 
