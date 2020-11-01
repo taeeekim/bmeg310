@@ -1,4 +1,4 @@
-#BMEG 310 Assignment 1 Answer Key
+# BMEG 310 Assignment 1 Answer Key
 
 Note: Errors were not carried forward wherever a mistake was repeated. If an explanation was based off incorrect results but was thorough and made sense in terms of the models, data, and found results, it was given at least part marks. 
 
@@ -65,7 +65,7 @@ Recall =(175)/(175+14)<br/>
 
 **Q2.2. (3 marks)** *1 mark for code, 1 mark for mean accuracy, 1 mark for explanation*<br/>
 Code:<br/>
-Any method which averages 10 *different* runs and calculates mean accuracy (could be hand calculated)
+Any method which averages 10 *different* runs and calculates mean accuracy (could be hand calculated)<br/>
 Answer:<br/>
 Accuracy around 0.91<br/>
 Fluctuates because kmeans output depends on a random initial seed which varies each run (and there are multiple solutions which kmeans can arrive at)<br/>
