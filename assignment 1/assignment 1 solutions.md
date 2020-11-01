@@ -1,6 +1,7 @@
 # BMEG 310 Assignment 1 Answer Key
 
-Note: Errors were not carried forward wherever a mistake was repeated. If an explanation was based off incorrect results but was thorough and made sense in terms of the models, data, and found results, it was given at least part marks. 
+Note 1: Errors were not carried forward wherever a mistake was repeated. If an explanation was based off incorrect results but was thorough and made sense in terms of the models, data, and found results, it was given at least part marks. 
+Note 2: If your answer does not match the one given below, this does not mean it is incorrect. If you lost marks for an explanation, it means that your statements were incorrect given your results or you were missing something important.
 
 ## Question 1
 **Q1.1. (3 marks)** *1 mark for code, 1 mark for data selection, 1 mark for correct answer*<br/>
