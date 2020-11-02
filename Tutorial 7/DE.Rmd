@@ -400,7 +400,7 @@ pathview(gene.data=foldchanges, pathway.id=keggresids, species="hsa")
 # Deliverable
 1. If we assume p-value of 3%, what would be the expected false positive?
 
-2. In (1), How many genes are there if you lower the FDR level by ONE percent?
+2. Following (1), How many genes are there if you set FDR cutoff as % false positive in (1) lowered by ONE percent?
 
 3. Having results from 1 & 2, list the top 5 upregulated and top 5 downregulated genes?
 
