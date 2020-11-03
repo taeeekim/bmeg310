@@ -1,7 +1,6 @@
 # Assignment 2
 
 ## Introduction
-<font color='red'>test blue color font</font>
 
 We have taken a tissue sample from a genetically modified mouse and performed RNA sequencing with the intention of exploring the expression levels. Attached to this assignment is a BAM file for one of those individual cells (in '.sam' format to be readable). This file contains reads which have been aligned to the mouse genome.
 
