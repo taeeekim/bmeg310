@@ -2,7 +2,8 @@
 
 ## Change Log
 Here you will see the list of latest changes in the document.
-- None for now (AB)
+Nov 3: You will only need to use the mutation, expression and clinical data. No other datasets (e.g., methylation, miRNA, etc.) are expected to be used.
+Nov 3: submission instructions for progress report updated.
 
 ## General:
 
@@ -85,6 +86,7 @@ As teams explore the data, they will need to look for trends related to the acti
 * The report should not be longer than 2 pages in 11 point font Times New Roman.
 * Marks will be awarded for the organization of the report contents (20%), clarity of project goal/research questions (30%), completeness of workflow/methods (40%) and organization of project timeline (10%)
 * There will be no marks deducted for addition of or lack of any challenges/errors, but professionalism of the assessment of limitations and problems will contribute to workflow and report organization marks. 
+* Progress report should be uploaded to github and the link should be sent to the instructors as a direct message on Piazza. Please do not send direct emails.
 
 **Part 3:** Oral Presentations
 * A 10-minute presentation of your project, to be pre-recorded and uploaded to Youtube, which should include the following sections:
