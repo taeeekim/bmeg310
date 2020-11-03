@@ -2,7 +2,9 @@
 
 ## Change Log
 Here you will see the list of latest changes in the document.
+
 Nov 3: You will only need to use the mutation, expression and clinical data. No other datasets (e.g., methylation, miRNA, etc.) are expected to be used.
+
 Nov 3: submission instructions for progress report updated.
 
 ## General:
