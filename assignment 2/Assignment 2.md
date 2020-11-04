@@ -12,6 +12,7 @@ In your answers, please list all relevant code used and results found.
 
 ## Change Log
 Oct 28, 2020: Typo found in question 3.6 was updated, please review if you already answered. Relevant Piazza posts: @217
+Oct 28, 2020: Added Q3.6 hint: assume no overlap between exonic and intronic tags within a variant entry. Relevant Piaza posts: @217, @242
 
 ## Data and Requirements
 You can download the data for Q1-Q2 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
@@ -110,7 +111,8 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 
 **Q3.6.** We can divide variants into two broad categories: intronic/intergenic and exonic. We can in general use snpEff's impact field to broadly categorize variants into intronic and exonic types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential intronic variants (where at least one snpEff annotation entry contains the relevant tag). What do you notice about the number of intronic variants (compared to overall number of variants)?
 <br />
-*Hint:* Use grepl() on the INFO field to look for tell-tale tags.
+*Hint:* Use grepl() on the INFO field to look for tell-tale tags.<br/>
+*Hint:* assume no overlap between exonic and intronic tags within a variant entry.
 <br />
 
 **Q3.7.** (bonus): Using Strelka on our data, we can detect indels, but only to a limited extent. Most of the reads in our BAM file have read lengths around 60bp long. Why might this have consequences for the detection of insertions that are longer than 60bp?
