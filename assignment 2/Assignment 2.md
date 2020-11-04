@@ -11,7 +11,7 @@ Use the tables linked to in the appendix to help you interpret the contents of t
 In your answers, please list all relevant code used and results found.
 
 ## Change Log
-Oct 28, 2020: Typo found in question 3.6 was updated, please review if you already answered. Relevant Piazza posts: @217
+Oct 28, 2020: Typo found in question 3.6 was updated, please review if you already answered. Relevant Piazza posts: @217<br/>
 Oct 28, 2020: Added Q3.6 hint: assume no overlap between exonic and intronic tags within a variant entry. Relevant Piaza posts: @217, @242
 
 ## Data and Requirements
