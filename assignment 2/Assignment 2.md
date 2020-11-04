@@ -12,7 +12,7 @@ In your answers, please list all relevant code used and results found.
 
 ## Change Log
 Oct 28, 2020: Typo found in question 3.6 was updated, please review if you already answered. Relevant Piazza posts: @217<br/>
-Oct 28, 2020: Added Q3.6 hint: assume no overlap between exonic and intronic tags within a variant entry. Relevant Piaza posts: @217, @242
+Nov 4, 2020: Added Q3.6 hint: assume no overlap between exonic and intronic tags within a variant entry. Relevant Piaza posts: @217, @242
 
 ## Data and Requirements
 You can download the data for Q1-Q2 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
