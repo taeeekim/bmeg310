@@ -13,6 +13,7 @@ In your answers, please list all relevant code used and results found.
 ## Change Log
 Oct 28, 2020: Typo found in question 3.6 was updated, please review if you already answered. Relevant Piazza posts: @217<br/>
 Nov 4, 2020: Added Q3.6 hint: assume no overlap between exonic and intronic tags within a variant entry. Relevant Piaza posts: @217, @242
+Nov 5, 2020: Edit on hint for 3.3, use the first snpEff annotation entry of a given variant to answer all relevant questions
 
 ## Data and Requirements
 You can download the data for Q1-Q2 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
@@ -98,7 +99,7 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 
 **Q3.3.** Each INFO tag-value pair is detailed in a line of the header, beginning with the tag '##INFO=<ID=VARIABLE, ...'. Look for the header entry starting with '##INFO=<ID=ANN, ...' which details the format of the ANN value contents. This tag-value pair contains the results of the annotations found by snpEff. Based on the ANN value of the first variant, what does the 'Annotation' field tell us about this variant?
 <br />
-*Hint:* snpEff can return multiple annotation entries for the same variant because some variants may have multiple possible effects. The first annotation entry is the most confident/important. You can use strsplit() again with ',' separation character if you wish to look at each of the ANN entries separately.
+*Hint:* snpEff can return multiple annotation entries for the same variant because some variants may have multiple possible effects. The first annotation entry is the most confident/important and, resultantly, you should only look at the first entry to answer this and all subsequent question. You can use strsplit() again with ',' separation character if you wish to look at each of the ANN entries separately.
 <br />
 *Hint:* Refer to the snpEff documentation in the appendix for a list of snpEff annotation label names and summaries of their effects.
 <br />
