@@ -2,6 +2,12 @@
 
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
+## Final Project
+**Teams**: Please see this link to find your teammate for final project [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Groups.html)
+
+**Instruction**: Please follow this link to find information regarding your projects [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Final%20Project/Final_Project_Overview.md)
+
+
 ## Assignment Guidelines
 Please see this link as update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
 
@@ -25,6 +31,7 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 
 * At the end of the "Introduction to data wrangling and functions in R" document, you can find the exercise that needs to be submitted as a deliverable for Tutorial 1. 
 
+5- Solution for Tutorial 1: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%201/Solution_Tutorial_1.html)
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
@@ -54,7 +61,50 @@ Please see this link as update guidelines for submitting assignments/tutorials [
 <br /> &nbsp;&nbsp;&nbsp;
 1.3. Cheatsheets for Machine Learning Concepts can be found here: [Link](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
+2- Solution: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%203/solution/Regression-Clustering-Classification-Exercise-Solution.pdf)
+
+## Tutorial 5 (Week of Oct 19, 2020): Introduction to Survival Analysis
+
+1- Survival analysis on TCGA data:
+<br /> &nbsp;&nbsp;&nbsp;
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/Survival_Analysis_V2.html)
+<br /> &nbsp;&nbsp;&nbsp;
+1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/tcga_data.rar)
+<br /> &nbsp;&nbsp;&nbsp;
+
+* It is required to submit both .Rmd and HTML version of deliverable file 
+
+2- Solution: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%205/Solution.html)
+
+## Tutorial 6 (Week of Oct 26, 2020): Introduction to UCSC genome browser
+Link to the video Tutorials: [link](https://www.youtube.com/playlist?list=PLrMptZQwFBe7I7Df_OGZoiak-d7sXfuGD)
+
+This tutorial covers 4 topics as follows:
+<br />
+1- Introduction to UCSC
+<br />
+2- Introduction to TRACKs
+<br />
+3- How to get data using Table Browser
+<br />
+4- How to find All the SNPs for a gene
+<br />
+
+## Tutorial 7 (Week of Nov 2, 2020): Introduction to Differential Expression and Pathway Analysis
+
+1- Introduction to DE and Pathway analysis [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/DE.html)
+<br />
+2- Data [link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%207)
+<br />
+3- Change Log: Any further changes in this tutorial will be announced here [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/Change_Log)
+<br />
+
+* It is required to submit both .Rmd and HTML version of deliverable file 
+
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
+Solution and marking rubric here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201%20solutions.md)
 
+## Assignment 2: Aligned DNA Reads and Variant Calling
+You can find assignment 2 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/Assignment%202.md)
