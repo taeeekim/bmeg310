@@ -90,6 +90,9 @@ This tutorial covers 4 topics as follows:
 4- How to find All the SNPs for a gene
 <br />
 
+*Solution: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Solution.md)
+
+
 ## Tutorial 7 (Week of Nov 2, 2020): Introduction to Differential Expression and Pathway Analysis
 
 1- Introduction to DE and Pathway analysis [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/DE.html)
