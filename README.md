@@ -91,6 +91,7 @@ This tutorial covers 4 topics as follows:
 <br />
 
 *Solution: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Solution.md)
+Also, in canvas under page "Tutorial 6 - Solution", you will be able to watch the detail answer to questions
 
 
 ## Tutorial 7 (Week of Nov 2, 2020): Introduction to Differential Expression and Pathway Analysis
