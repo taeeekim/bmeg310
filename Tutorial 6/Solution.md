@@ -13,13 +13,14 @@ NOTE: In this tutorial, I tried to be lenient in grading, especially in the **a 
 
 a:  In eukaryotic DNA, the sequence is **ATG**; in RNA it is **AUG**. So both answers are accepted although the best answer for this question is **ATG**
 
+
 b:  **chrX:49,258,505**
 
 #name	cdsStart	cdsEnd	exonCount
 
 ENST00000376227.4	49235636	49250261	17
 
-==ENST00000376207.9==	49251333	==49258505==	12
+**ENST00000376207.9**	49251333	**49258505**	12
 
 ENST00000376199.7	49251333	49258505	11
 
@@ -41,18 +42,22 @@ ENST00000651462.1	49262865	49262865	3
 
 
 
+
 c: AGGACCCG
+
 
 d: 
 
 - 3 first: gtg
 - 3 last: cag
 
+
 e: Yes. There is only ONE SNP in the coding region:
 
 - **ID**: rs2232367 
 - **Position:** [chrX:49256855](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=945089791_zFU0ffPM8Ty6CGXkkxLFmbhd060N&db=hg38&position=chrX%3A49256855-49256855)
 - **Class**: single
+
 
 f: NO!
 
