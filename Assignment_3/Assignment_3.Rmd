@@ -189,7 +189,7 @@ head(rpkmMatrix)
 *Today, we're going to use edgeR. The user guide is here:* https://www.bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf
 
 #### Question 2a
-*For calculating differential expression, we need a count matrix. There is a lot more information in counts than in normalized counts. For example, you can believe 1/1E6 reads a lot less than 100/1E8 reads, but they both have the same RPKM values. Accordingly, Please create a matrix of counts (genes in the rows and samples in the columns) and filter it for genes with an average CPM>5. *
+*For calculating differential expression, we need a count matrix. There is a lot more information in counts than in normalized counts. For example, you can believe 1/1E6 reads a lot less than 100/1E8 reads, but they both have the same RPKM values. Accordingly, Please create a matrix of counts (genes in the rows and samples in the columns) and filter it for genes with an average number of counts across samples >5 (as in Q1f). *
 
 ```{r}
 
