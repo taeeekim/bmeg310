@@ -90,6 +90,11 @@ This tutorial covers 4 topics as follows:
 4- How to find All the SNPs for a gene
 <br />
 
+*Solution: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%206/Solution.md)
+<br /> &nbsp;&nbsp;&nbsp;
+Also, in canvas under page "Tutorial 6 - Solution", you will be able to watch the detail answer to questions
+
+
 ## Tutorial 7 (Week of Nov 2, 2020): Introduction to Differential Expression and Pathway Analysis
 
 1- Introduction to DE and Pathway analysis [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/DE.html)
@@ -104,5 +109,12 @@ This tutorial covers 4 topics as follows:
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
+Solution and marking rubric here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201%20solutions.md)
+
 ## Assignment 2: Aligned DNA Reads and Variant Calling
 You can find assignment 2 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/Assignment%202.md)
+
+
+## Assignment 3: Differential expression and RNA-seq
+You can find assignment 3 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment_3/Assignment_3.Rmd)
+Please clone this file (or copy the contents) and edit it to complete your assignment.

@@ -1,6 +1,7 @@
 # Assignment 2
 
 ## Introduction
+
 We have taken a tissue sample from a genetically modified mouse and performed RNA sequencing with the intention of exploring the expression levels. Attached to this assignment is a BAM file for one of those individual cells (in '.sam' format to be readable). This file contains reads which have been aligned to the mouse genome.
 
 A BAM file is the standard data template for all of the genetic information in a library. As such, it is the starting point for many analyses approaches. We would like you to become familiar with the contents of a BAM file and their biological implications by investigating the contents of this file.
@@ -8,6 +9,11 @@ A BAM file is the standard data template for all of the genetic information in a
 Use the tables linked to in the appendix to help you interpret the contents of the file.
 
 In your answers, please list all relevant code used and results found.
+
+## Change Log
+Oct 28, 2020: Typo found in question 3.6 was updated, please review if you already answered. Relevant Piazza posts: @217<br/>
+Nov 4, 2020: Added Q3.6 hint: assume no overlap between exonic and intronic tags within a variant entry. Relevant Piaza posts: @217, @242
+Nov 5, 2020: Edit on hint for 3.3, use the first snpEff annotation entry of a given variant to answer all relevant questions
 
 ## Data and Requirements
 You can download the data for Q1-Q2 from [here](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/single_cell_RNA_seq_bam.sam)
@@ -93,7 +99,7 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 
 **Q3.3.** Each INFO tag-value pair is detailed in a line of the header, beginning with the tag '##INFO=<ID=VARIABLE, ...'. Look for the header entry starting with '##INFO=<ID=ANN, ...' which details the format of the ANN value contents. This tag-value pair contains the results of the annotations found by snpEff. Based on the ANN value of the first variant, what does the 'Annotation' field tell us about this variant?
 <br />
-*Hint:* snpEff can return multiple annotation entries for the same variant because some variants may have multiple possible effects. The first annotation entry is the most confident/important. You can use strsplit() again with ',' separation character if you wish to look at each of the ANN entries separately.
+*Hint:* snpEff can return multiple annotation entries for the same variant because some variants may have multiple possible effects. The first annotation entry is the most confident/important and, resultantly, you should only look at the first entry to answer this and all subsequent question. You can use strsplit() again with ',' separation character if you wish to look at each of the ANN entries separately.
 <br />
 *Hint:* Refer to the snpEff documentation in the appendix for a list of snpEff annotation label names and summaries of their effects.
 <br />
@@ -106,7 +112,8 @@ variants <- read.csv("RNA_seq_annotated_variants.vcf", skip=length(header), head
 
 **Q3.6.** We can divide variants into two broad categories: intronic/intergenic and exonic. We can in general use snpEff's impact field to broadly categorize variants into intronic and exonic types by 'MODIFIER' and 'LOW/MEDIUM/HIGH' labels respectively. Count the number of potential intronic variants (where at least one snpEff annotation entry contains the relevant tag). What do you notice about the number of intronic variants (compared to overall number of variants)?
 <br />
-*Hint:* Use grepl() on the INFO field to look for tell-tale tags.
+*Hint:* Use grepl() on the INFO field to look for tell-tale tags.<br/>
+*Hint:* assume no overlap between exonic and intronic tags within a variant entry.
 <br />
 
 **Q3.7.** (bonus): Using Strelka on our data, we can detect indels, but only to a limited extent. Most of the reads in our BAM file have read lengths around 60bp long. Why might this have consequences for the detection of insertions that are longer than 60bp?

@@ -1,3 +1,8 @@
 ### Change Log
 
-None for now (AB)
+changed Q2:
+
+In (1), How many genes are there if you lower the FDR level by ONE percent?
+= To =>
+How many genes are there if you set FDR cutoff as % false positive in (1) lowered by ONE percent?
+
