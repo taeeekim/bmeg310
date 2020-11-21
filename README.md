@@ -114,6 +114,7 @@ Solution and marking rubric here: [link](https://github.com/bmeg310ubc/bmeg310/b
 ## Assignment 2: Aligned DNA Reads and Variant Calling
 You can find assignment 2 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/Assignment%202.md)
 
+Solution and marking rubric here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%202/assignment%202%20solutions.md)
 
 ## Assignment 3: Differential expression and RNA-seq
 You can find assignment 3 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment_3/Assignment_3.Rmd)
