@@ -3,9 +3,11 @@
 ## Change Log
 Here you will see the list of latest changes in the document.
 
-Nov 3: You will only need to use the mutation, expression and clinical data. No other datasets (e.g., methylation, miRNA, etc.) are expected to be used.
+Nov 3 (Ali Bashashati): You will only need to use the mutation, expression and clinical data. No other datasets (e.g., methylation, miRNA, etc.) are expected to be used.
 
-Nov 3: submission instructions for progress report updated.
+Nov 3  (Ali Bashashati): submission instructions for progress report updated.
+
+Nov 13  (Ali Bashashati): There has been some really good questions about teh project on Piazza. I have tagged them as "good question". It is highly recommended that you take a look at them to get some ideas. You can find them by searching for the questions that have "project" tag and also highlighted by "~ An instructor (Ali Bashashati) thinks this is a good question  ~".
 
 ## General:
 
