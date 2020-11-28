@@ -159,7 +159,7 @@ head(rpkmMatrix)
 
 ```
 
-*By looking at the graph, what fraction of genes will be excluded if we require an average of at least 5 reads per sample?*
+*By looking at the graph, what fraction of genes will be excluded if we require an average of at least 5 reads per gene?*
 
 #### Question 1f
 *Make a vector of `Gene.ID`s for all the genes we will _include_ in our analysis (e.g. those with 5 or more reads per sample on average). Name it `keepGenes`.*
