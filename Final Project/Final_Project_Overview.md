@@ -9,6 +9,8 @@ Nov 3  (Ali Bashashati): submission instructions for progress report updated.
 
 Nov 13  (Ali Bashashati): There has been some really good questions about teh project on Piazza. I have tagged them as "good question". It is highly recommended that you take a look at them to get some ideas. You can find them by searching for the questions that have "project" tag and also highlighted by "~ An instructor (Ali Bashashati) thinks this is a good question  ~".
 
+Nov 26 (Ali Bashashati): Extended the deadline for project presentation to Dec 15th. Peer grading of submitted presentations will be due on Dec 18th. Project presentation should be less than 8min. 
+
 ## General:
 
 The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the project is to give students the opportunity to apply their understanding of course fundamentals to real data. Students will be organised into teams and given a TCGA cancer dataset to analyze, with the goal that they will capture biologically relevant trends characteristic of the cancer in question. The project will consist of a design period, where the details of the analysis and research question will be proposed by teams, and an analysis period, where students will have dedicated time to collaborate and produce results. The last 2 weeks of class will have no tutorials/assignments to give students time to do this, and Instructors/TAs will be available to give students feedback on their work and help them refine their analyses.
@@ -21,9 +23,11 @@ The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the 
 
 **November 21:** Progress Report Due (5% of grade)
 
-**December 5:** Oral Presentations (15% of grade)
+**December 15:** Oral Presentations (15% of grade)
 
 **December 15:** Github Repo Due (10% of grade), Final Report Due (15% of grade), Peer Feedback Survey Due (5% of grade)
+
+**December 18:** Peer grading of submitted presentations 
 
 ## Teams:
 
@@ -93,7 +97,7 @@ As teams explore the data, they will need to look for trends related to the acti
 * Progress report should be uploaded to github and the link should be sent to the instructors as a direct message on Piazza. Please do not send direct emails.
 
 **Part 3:** Oral Presentations
-* A 10-minute presentation of your project, to be pre-recorded and uploaded to Youtube, which should include the following sections:
+* A presentation (up to 8min) of your project, to be pre-recorded and uploaded to Youtube, which should include the following sections:
     * **Project Goal:** An introduction to your dataset, the disease you are investigating, and an explanation of your research question and process. Should provide a clear summary of the result you have attempted to show with your analysis, and should convey the biological and clinical importance of the analysis you have decided to perform.
     * **Methods:** Give a detailed walkthrough of the workflow you have developed. Provide a reason why each component was chosen, and explain how the workflow is suited to the research question you have defined.
     * **Discussion:** Provide a detailed overview of your results through each stage of your analysis. Clearly highlight any information relevant to the overall result you have found, including any challenges you faced with your dataset or workflow. Show how this information has led you to a conclusion regarding the results of your investigations and how this conclusion addresses your research question. If no conclusive result was found, explain why you believe this is the case, citing trends in your data. If you have found important trends in your data related to the genome, propose a biological interpretation of these trends in terms of possible mechanisms. Try to link any biological effects to potential clinical relevance. Finally, it is important to perform a literature search to see if the findings/interpretation/hypotheses identified from your exploratory analysis work are supported by the literature.
@@ -117,16 +121,16 @@ As teams explore the data, they will need to look for trends related to the acti
         * **Methods** Give a detailed explanation of your workflow including the algorithms you have used and the structure of the data with which you are working. Provide reasoning for every choice you have made in the design of your workflow, placing it in the context of the data. Explain how the workflow is suited to the research question you have defined.
         * **Results** Citing relevant figures and tables, summarize the results of your investigation. Use methods of presenting data such as those which have been covered in assignments and tutorials to convey your results concisely and frame any important trends that have been discovered, or use them to highlight a lack of important trends if this was the case.
         * **Discussion** Highlight important trends in your data and explain them both in the context of the data and in the context of biological/environmental factors of the disease where possible. Discuss any challenges which were faced with the dataset and workflow, and explain how they were addressed. Present a conclusion based on the results of the investigation and explain how this addresses the research question.
-    * The report should not be longer than 8 pages in 11 point font Times New Roman, including tables and figures.
+    * The report should not be longer than 8 pages in 11 point font Times New Roman (single space, 0.75" margin on all sides), including tables, figures, and references.
     * Cite references where relevant. Use IEEE style and include a bibliography at the end of the report. Often a reference or two can help explain the disease or give credence to a trend you see in the data.
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
 
 3. **Peer Feedback Survey**
-    * At the end of the course, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. This will count towards the collaboration portion of the course grade, worth 5%.
+    * At the end of project submission, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. This will count towards the collaboration portion of the course grade, worth 5%.
     * The collaboration portion of the project will be assessed based on individual contribution to project as evaluated from the progress report, final report, and peer feedback survey, and students who contribute meaningfully to the project and make a strong effort to collaborate and communicate with teammates will receive full marks.
     * **NOTE:** Although the peer feedback section is worth 5%, the teaching team reserves the right to deduct individual project grades beyond this amount if they identify a situation where specific group members have made no significant contribution to the project or deliverables.
 
-**Part 5:** Peer grading of submitted presentations (due Dec 15)
+**Part 5:** Peer grading of submitted presentations (due Dec 18)
 * We will assign each team 5 projects and they will need to watch the submitted videos and mark them according to the criteria for oral presentations. 
 * In addition to the peer evaluation, at least two of the teaching team (instructors & TAs) will grade the project. 
 * Final grade for the presentation will be the aggregate of the peer evaluation (30%) and teaching team (70%). 
